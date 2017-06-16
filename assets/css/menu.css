@@ -55,7 +55,7 @@ body, ul, li {
 
     background: #F4F4F4;
     background: -moz-linear-gradient(top, #F4F4F4, #EEEEEE);
-    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#F4F4F4), to(#EEEEEE));
+    /background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#F4F4F4), to(#EEEEEE));
 
     /* Rounded corners */
 
@@ -103,9 +103,9 @@ body, ul, li {
     border-top:none;
 
     /* Gradient background */
-    background:#F4F4F4;
-    background: -moz-linear-gradient(top, #EEEEEE, #BBBBBB);
-    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EEEEEE), to(#BBBBBB));
+    background:#ffffff;
+    background: -moz-linear-gradient(top, #ffffff, #ffffff);
+    /*background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#EEEEEE), to(#BBBBBB));
 
     /* Rounded Corners */
     -moz-border-radius: 0px 5px 5px 5px;
