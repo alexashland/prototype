@@ -8,11 +8,12 @@ body, ul, li {
 /* Navigation Bar */
 
 #menu {
-  position: fixed;
-    list-style:none;
-    width:100%;
-    margin:30px auto 0px auto;
-    height:43px;
+  z-index: 9999;
+ position: fixed;
+ left: 0;
+ top: 0;
+ width: 100%;
+    height:55px;
     padding:0px 20px 0px 20px;
 
     /* Rounded Corners */
