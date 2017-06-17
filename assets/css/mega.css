@@ -17,10 +17,13 @@
 .nav li { list-style: none; }
 
 .nav {
-    display: inline-block;
-    position: relative;
+    position: fixed;
     cursor: default;
     z-index: 500;
+    height: 300px;
+    padding-top: 50px;
+    top: 0;
+    right: 0px;
 }
 
 .nav > li {
@@ -33,6 +36,7 @@
     display: block;
     z-index: 510;
     height: 54px;
+    width: 150px;
     padding: 0 35px;
     line-height: 54px;
 
