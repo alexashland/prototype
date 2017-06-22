@@ -486,7 +486,7 @@
                 "Complete Poetry and Prose",
                 "\"Big Book\"",
                 "Untrimmed",
-                "Gender",
+                "Remembrance",
                 "Media",
                 "Mythology",
                 "Race",
@@ -785,7 +785,7 @@
                 "\"Big Book\"",
                 "\"Complete Works\"",
                 "Advertisement",
-                "Gender",
+                "Remembrance",
                 "Health",
                 "Law",
                 "Spirituality",
@@ -807,7 +807,7 @@
             "links": [
                 "\"Complete Works\"",
                 "Untrimmed",
-                "Gender",
+                "Remembrance",
                 "Law",
                 "Centralized",
                 "Free Will",
@@ -825,7 +825,7 @@
                 "Autograph",
                 "Advertisement",
                 "Untrimmed",
-                "Gender",
+                "Remembrance",
                 "Health",
                 "Population",
                 "Free Will",
@@ -923,7 +923,7 @@
                 "\"Complete Works\"",
                 "Autograph",
                 "Untrimmed",
-                "Gender",
+                "Remembrance",
                 "Law",
                 "Race",
                 "Spirituality",
@@ -1112,9 +1112,9 @@
         },
         {
             "type": "theme",
-            "name": "Gender",
+            "name": "Remembrance",
             "description": "",
-            "slug": "gender"
+            "slug": "remembrance"
         },
         {
             "type": "theme",
