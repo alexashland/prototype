@@ -2,8 +2,8 @@
     "ditems": [
         {
             "type": "ditem",
-            "name": "John Fife",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/John_Fife\">Reverend John Fife</a> was instrumental in co-founding the <a href=\"http://en.wikipedia.org/wiki/Sanctuary_movement\">Sanctuary</a> movement. He is also active in humanitarian work along the US/Mexico border through <a />Humane Borders</a>.",
+            "name": "Walt Whitman",
+            "description": "<a href=\"http://whitmanarchive.org/biography/walt_whitman/index.html\">Walt Whitman</a> was a poet, journalist, and fiction writer.  His most popular and extensively revised work, <i><a href=\"http://whitmanarchive.org/biography/walt_whitman/index.html\">Leaves of grass</a></i>, is widely considered one of the most influential literary works by an American author.",
             "ditem": 1,
             "date": "2012-05-05 23:50:11",
             "slug": "ditem-one-reverend-john-fife",
