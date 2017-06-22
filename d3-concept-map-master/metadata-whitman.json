@@ -75,7 +75,7 @@
             "links": [
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Education",
+                "Autograph",
                 "Environment",
                 "Equality",
                 "Happiness",
@@ -95,7 +95,7 @@
             "links": [
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Education",
+                "Autograph",
                 "Equality",
                 "Happiness",
                 "Media",
@@ -189,13 +189,13 @@
         {
             "type": "ditem",
             "name": "Lisa Petrides",
-            "description": "<a href=\"http://www.iskme.org/about-us/iskme-team/lpetrides\">Lisa Petrides</a> is the founder of <a href=\"http://www.iskme.org/\">ISKME</a>, the Institute for the Study of Knowledge Management in Education, a research group dedicated to studying current educational systems and encouraging innovation. ",
+            "description": "<a href=\"http://www.iskme.org/about-us/iskme-team/lpetrides\">Lisa Petrides</a> is the founder of <a href=\"http://www.iskme.org/\">ISKME</a>, the Institute for the Study of Knowledge Management in Autograph, a research group dedicated to studying current Autographal systems and encouraging innovation. ",
             "ditem": 11,
             "date": "2012-06-18 20:11:47",
             "slug": "ditem-eleven-dr-lisa-petrides",
             "links": [
                 "\"Big Book\"",
-                "Education",
+                "Autograph",
                 "Environment",
                 "Equality",
                 "Sci/Tech",
@@ -547,7 +547,7 @@
             "date": "2012-10-15 22:23:58",
             "slug": "ditem-29-lawrence-torcello",
             "links": [
-                "Education",
+                "Autograph",
                 "Equality",
                 "Government",
                 "Law",
@@ -566,7 +566,7 @@
             "links": [
                 "Complete Poetry and Prose",
                 "\"Big Book\"",
-                "Education",
+                "Autograph",
                 "Environment",
                 "Equality",
                 "Government",
@@ -631,7 +631,7 @@
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Education",
+                "Autograph",
                 "Environment",
                 "Media",
                 "Mythology",
@@ -675,7 +675,7 @@
             "slug": "ditem-36-ethan-zuckerman",
             "links": [
                 "\"Big Book\"",
-                "Education",
+                "Autograph",
                 "Environment",
                 "Government",
                 "Health",
@@ -822,7 +822,7 @@
             "date": "2013-02-27 11:43:48",
             "slug": "ditem-44-john-seager",
             "links": [
-                "Education",
+                "Autograph",
                 "Environment",
                 "Equality",
                 "Gender",
@@ -860,7 +860,7 @@
             "links": [
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Education",
+                "Autograph",
                 "Environment",
                 "Government",
                 "Happiness",
@@ -903,7 +903,7 @@
             "slug": "ditem-48-chris-carter",
             "links": [
                 "\"Oldach\"",
-                "Education",
+                "Autograph",
                 "Population",
                 "Sci/Tech",
                 "Determinism",
@@ -921,7 +921,7 @@
                 "Complete Poetry and Prose",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Education",
+                "Autograph",
                 "Equality",
                 "Gender",
                 "Law",
@@ -1027,7 +1027,7 @@
             "slug": "ditem-55-ed-finn",
             "links": [
                 "\"Big Book\"",
-                "Education",
+                "Autograph",
                 "Happiness",
                 "Media",
                 "Mythology",
@@ -1094,9 +1094,9 @@
         },
         {
             "type": "theme",
-            "name": "Education",
+            "name": "Autograph",
             "description": "",
-            "slug": "education-2"
+            "slug": "autograph-2"
         },
         {
             "type": "theme",
