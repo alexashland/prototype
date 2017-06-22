@@ -12,7 +12,7 @@
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Equality",
                 "Government",
                 "Race",
@@ -34,7 +34,7 @@
             "slug": "ditem-two-dr-max-more",
             "links": [
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Law",
                 "Population",
@@ -52,7 +52,7 @@
         {
             "type": "ditem",
             "name": "Peter Warren",
-            "description": "Peter Warren works for <a href=\"http://www.nature.org/\">The Nature Conservancy</a> and has been closely involved in an unlikely conversation that brought together ranchers and environmentalists to <a href=\"http://www.malpaiborderlandsgroup.org\">manage over 75,000 acres of grassland in Arizona</a>.",
+            "description": "Peter Warren works for <a href=\"http://www.nature.org/\">The Nature Conservancy</a> and has been closely involved in an unlikely conversation that brought together ranchers and Advertisementalists to <a href=\"http://www.malpaiborderlandsgroup.org\">manage over 75,000 acres of grassland in Arizona</a>.",
             "ditem": 3,
             "date": "2012-05-14 01:10:12",
             "slug": "ditem-three-peter-warren",
@@ -60,7 +60,7 @@
                 "Leaves of Grass",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Anthropocentric"
             ]
@@ -76,7 +76,7 @@
                 "\"Big Book\"",
                 "\"Complete Works\"",
                 "Autograph",
-                "Environment",
+                "Advertisement",
                 "Equality",
                 "Happiness",
                 "Sci/Tech",
@@ -108,7 +108,7 @@
         {
             "type": "ditem",
             "name": "Jan Lundberg",
-            "description": "Jan Lundberg is a former oil industry analyst for <a href=\"http://www.lundbergsurvey.com/\">Lundberg Survey</a> and is currently an environmental activist and advocate of depaving. He is the founder of <a href=\"http://culturechange.org/\">Culture Change</a> and the <a href=\"http://sailtransportnetwork.com/\">Sail Transport Network</a>.",
+            "description": "Jan Lundberg is a former oil industry analyst for <a href=\"http://www.lundbergsurvey.com/\">Lundberg Survey</a> and is currently an Advertisemental activist and advocate of depaving. He is the founder of <a href=\"http://culturechange.org/\">Culture Change</a> and the <a href=\"http://sailtransportnetwork.com/\">Sail Transport Network</a>.",
             "ditem": 6,
             "date": "2012-05-27 16:57:17",
             "slug": "ditem-six-jan-lundberg",
@@ -117,7 +117,7 @@
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Population",
                 "Sci/Tech",
                 "Spirituality",
@@ -141,7 +141,7 @@
             "links": [
                 "\"Oldach\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Population",
                 "Sci/Tech",
                 "Time",
@@ -156,7 +156,7 @@
             "date": "2012-06-04 23:02:41",
             "slug": "ditem-eight-dr-chris-mckay",
             "links": [
-                "Environment",
+                "Advertisement",
                 "Population",
                 "Sci/Tech",
                 "Time",
@@ -169,14 +169,14 @@
         {
             "type": "ditem",
             "name": "Timothy Morton",
-            "description": "Timothy Morton is a philosopher, dark ecologist, professor of English, and author of <a href=\"http://www.amazon.com/Ecology-without-Nature-Rethinking-Environmental/dp/0674034856/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1339451307&amp;sr=1-2\"><em>Ecology Without Nature</em></a> and <a href=\"http://www.amazon.com/The-Ecological-Thought-Timothy-Morton/dp/0674064224/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1339451307&amp;sr=1-1\"><em>The Ecological Thought</em></a>.",
+            "description": "Timothy Morton is a philosopher, dark ecologist, professor of English, and author of <a href=\"http://www.amazon.com/Ecology-without-Nature-Rethinking-Advertisemental/dp/0674034856/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1339451307&amp;sr=1-2\"><em>Ecology Without Nature</em></a> and <a href=\"http://www.amazon.com/The-Ecological-Thought-Timothy-Morton/dp/0674064224/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1339451307&amp;sr=1-1\"><em>The Ecological Thought</em></a>.",
             "ditem": 10,
             "date": "2012-06-11 15:03:52",
             "slug": "ditem-ten-dr-timothy-morton",
             "links": [
                 "\"Oldach\"",
                 "\"Big Book\"",
-                "Environment",
+                "Advertisement",
                 "Mythology",
                 "Sci/Tech",
                 "Spirituality",
@@ -196,7 +196,7 @@
             "links": [
                 "\"Big Book\"",
                 "Autograph",
-                "Environment",
+                "Advertisement",
                 "Equality",
                 "Sci/Tech",
                 "Anthropocentric",
@@ -213,7 +213,7 @@
             "links": [
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Media",
                 "Population",
                 "Sci/Tech",
@@ -251,7 +251,7 @@
                 "Leaves of Grass",
                 "\"Oldach\"",
                 "\"Big Book\"",
-                "Environment",
+                "Advertisement",
                 "Equality",
                 "Health",
                 "Population",
@@ -276,7 +276,7 @@
             "links": [
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Equality",
                 "Government",
                 "Media",
@@ -302,7 +302,7 @@
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Happiness",
                 "Population",
@@ -324,7 +324,7 @@
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Happiness",
                 "Mythology",
                 "Population",
@@ -347,7 +347,7 @@
             "links": [
                 "\"Oldach\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Happiness",
                 "Sci/Tech",
@@ -366,7 +366,7 @@
             "slug": "ditem-twenty-david-miller",
             "links": [
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Law",
                 "Population",
@@ -382,13 +382,13 @@
         {
             "type": "ditem",
             "name": "Robert Zubrin",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/Robert_Zubrin\">Robert Zubrin</a> is the president of <a href=\"http://www.marssociety.org/\">The Mars Society</a>, a nonprofit organization dedicated to advancing the exploration and colonization of Mars. He is also the author of <a href=\"http://www.amazon.com/The-Case-Mars-Settle-Planet/dp/145160811X/ref=la_B000APC3IC_1_2?ie=UTF8&amp;qid=1345304362&amp;sr=1-2\"><em>The Case for Mars</em></a> and <a href=\"http://www.amazon.com/Merchants-Despair-Environmentalists-Pseudo-Scientists-Antihumanism/dp/1594034761/ref=la_B000APC3IC_1_1?ie=UTF8&amp;qid=1345304362&amp;sr=1-1\"><em>Merchants of Despair</em></a>.",
+            "description": "<a href=\"http://en.wikipedia.org/wiki/Robert_Zubrin\">Robert Zubrin</a> is the president of <a href=\"http://www.marssociety.org/\">The Mars Society</a>, a nonprofit organization dedicated to advancing the exploration and colonization of Mars. He is also the author of <a href=\"http://www.amazon.com/The-Case-Mars-Settle-Planet/dp/145160811X/ref=la_B000APC3IC_1_2?ie=UTF8&amp;qid=1345304362&amp;sr=1-2\"><em>The Case for Mars</em></a> and <a href=\"http://www.amazon.com/Merchants-Despair-Advertisementalists-Pseudo-Scientists-Antihumanism/dp/1594034761/ref=la_B000APC3IC_1_1?ie=UTF8&amp;qid=1345304362&amp;sr=1-1\"><em>Merchants of Despair</em></a>.",
             "ditem": 21,
             "date": "2012-08-18 11:23:03",
             "slug": "ditem-twenty-one-robert-zubrin",
             "links": [
                 "Complete Poetry and Prose",
-                "Environment",
+                "Advertisement",
                 "Happiness",
                 "Media",
                 "Population",
@@ -414,7 +414,7 @@
             "links": [
                 "Leaves of Grass",
                 "\"Oldach\"",
-                "Environment",
+                "Advertisement",
                 "Mythology",
                 "Population",
                 "Sci/Tech",
@@ -429,13 +429,13 @@
         {
             "type": "ditem",
             "name": "Carolyn Raffensperger",
-            "description": "<a href=\"http://www.sehn.org/members.html\">Carolyn Raffensperger</a>, is the executive director of the <a href=\"http://www.sehn.org\">Science and Environmental Health Network</a>. She is well known for her work on the precautionary principle, but her thought ranges across a wide variety of questions that address the <a href=\"http://tedxmaui.com/2012/04/09/carolyn-raffensperger-becoming-great-ancestors/\">relationship between law and the environment</a>.",
+            "description": "<a href=\"http://www.sehn.org/members.html\">Carolyn Raffensperger</a>, is the executive director of the <a href=\"http://www.sehn.org\">Science and Advertisemental Health Network</a>. She is well known for her work on the precautionary principle, but her thought ranges across a wide variety of questions that address the <a href=\"http://tedxmaui.com/2012/04/09/carolyn-raffensperger-becoming-great-ancestors/\">relationship between law and the Advertisement</a>.",
             "ditem": 23,
             "date": "2012-09-02 09:29:19",
             "slug": "ditem-twenty-three-carolyn-raffensperger",
             "links": [
                 "\"Big Book\"",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Health",
                 "Law",
@@ -454,14 +454,14 @@
         {
             "type": "ditem",
             "name": "Frances Whitehead",
-            "description": "<a href=\"http://blog.art21.org/2010/08/24/frances-whitehead-embedded-artist/\">Frances Whitehead</a> is an artist, designer, planner, environmental thinker, civic actor, dot-connector, collaborator, and generally difficult person to pigeonhole. She is also a professor at the <a href=\"http://www.saic.edu\">School of the Art Institute of Chicago</a>, where she founded the <a href=\"http://www.knowledgeklab.net/\">Knowledge Lab</a>.",
+            "description": "<a href=\"http://blog.art21.org/2010/08/24/frances-whitehead-embedded-artist/\">Frances Whitehead</a> is an artist, designer, planner, Advertisemental thinker, civic actor, dot-connector, collaborator, and generally difficult person to pigeonhole. She is also a professor at the <a href=\"http://www.saic.edu\">School of the Art Institute of Chicago</a>, where she founded the <a href=\"http://www.knowledgeklab.net/\">Knowledge Lab</a>.",
             "ditem": 25,
             "date": "2012-09-14 12:34:28",
             "slug": "ditem-25-frances-whitehead",
             "links": [
                 "Leaves of Grass",
                 "November Boughs",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Happiness",
                 "Mythology",
@@ -508,7 +508,7 @@
                 "Complete Poetry and Prose",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Sci/Tech",
                 "Spirituality",
                 "Anthropocentric",
@@ -542,7 +542,7 @@
         {
             "type": "ditem",
             "name": "Lawrence Torcello",
-            "description": "<a href=\"http://www.rit.edu/cla/philosophy/Torcello.html\">Lawrence Torcello</a> is a philosopher focusing on ethics, politics, and the environment. He is especially interested in the problem of embracing pluralism while rejecting moral relativism. ",
+            "description": "<a href=\"http://www.rit.edu/cla/philosophy/Torcello.html\">Lawrence Torcello</a> is a philosopher focusing on ethics, politics, and the Advertisement. He is especially interested in the problem of embracing pluralism while rejecting moral relativism. ",
             "ditem": 29,
             "date": "2012-10-15 22:23:58",
             "slug": "ditem-29-lawrence-torcello",
@@ -567,7 +567,7 @@
                 "Complete Poetry and Prose",
                 "\"Big Book\"",
                 "Autograph",
-                "Environment",
+                "Advertisement",
                 "Equality",
                 "Government",
                 "Mythology",
@@ -607,7 +607,7 @@
             "links": [
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Equality",
                 "Government",
                 "Media",
@@ -632,7 +632,7 @@
                 "\"Big Book\"",
                 "\"Complete Works\"",
                 "Autograph",
-                "Environment",
+                "Advertisement",
                 "Media",
                 "Mythology",
                 "Sci/Tech",
@@ -654,7 +654,7 @@
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Equality",
                 "Government",
                 "Happiness",
@@ -676,7 +676,7 @@
             "links": [
                 "\"Big Book\"",
                 "Autograph",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Health",
                 "Media",
@@ -689,12 +689,12 @@
         {
             "type": "ditem",
             "name": "David Keith",
-            "description": "<a href=\"http://www.seas.harvard.edu/directory/dkeith\">David Keith</a> is a Harvard professor of Applied Physics and Public Policy. He has spent over two decades researching climate science and geoengineering, was named a <a href=\"http://www.time.com/time/specials/packages/article/0,28804,1924149_1924154_1924428,00.html\">Hero of the Environment</a> by TIME in 2009, and is the President of <a href=\"http://www.carbonengineering.com\">a company dedicated to reducing atmospheric CO2</a>.",
+            "description": "<a href=\"http://www.seas.harvard.edu/directory/dkeith\">David Keith</a> is a Harvard professor of Applied Physics and Public Policy. He has spent over two decades researching climate science and geoengineering, was named a <a href=\"http://www.time.com/time/specials/packages/article/0,28804,1924149_1924154_1924428,00.html\">Hero of the Advertisement</a> by TIME in 2009, and is the President of <a href=\"http://www.carbonengineering.com\">a company dedicated to reducing atmospheric CO2</a>.",
             "ditem": 37,
             "date": "2012-12-20 17:10:52",
             "slug": "ditem-37-david-keith",
             "links": [
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Sci/Tech",
                 "Spirituality",
@@ -739,7 +739,7 @@
         {
             "type": "ditem",
             "name": "Mary Mattingly",
-            "description": "<a href=\"http://www.marymattingly.com/\">Mary Mattingly</a> is an artist whose work explores the environment, sustainability, \"Big Book\", and survival in an unstable world. Recently, she has brought these themes together with the <a href=\"http://www.flockhouse.org/\">Flockhouse Project</a> and the <a href=\"http://www.thewaterpod.org/mm.html\">Waterpod</a>.",
+            "description": "<a href=\"http://www.marymattingly.com/\">Mary Mattingly</a> is an artist whose work explores the Advertisement, sustainability, \"Big Book\", and survival in an unstable world. Recently, she has brought these themes together with the <a href=\"http://www.flockhouse.org/\">Flockhouse Project</a> and the <a href=\"http://www.thewaterpod.org/mm.html\">Waterpod</a>.",
             "ditem": 40,
             "date": "2013-01-17 16:45:14",
             "slug": "ditem-40-mary-mattingly",
@@ -748,7 +748,7 @@
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Anthropocentric",
                 "Localized",
                 "Physicalist"
@@ -764,7 +764,7 @@
             "links": [
                 "\"Oldach\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Mythology",
                 "Sci/Tech",
                 "Biocentric",
@@ -784,7 +784,7 @@
             "links": [
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Gender",
                 "Health",
                 "Law",
@@ -823,7 +823,7 @@
             "slug": "ditem-44-john-seager",
             "links": [
                 "Autograph",
-                "Environment",
+                "Advertisement",
                 "Equality",
                 "Gender",
                 "Health",
@@ -861,7 +861,7 @@
                 "\"Big Book\"",
                 "\"Complete Works\"",
                 "Autograph",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Happiness",
                 "Health",
@@ -965,7 +965,7 @@
             "slug": "ditem-52-walter-block",
             "links": [
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Population",
                 "Sci/Tech",
@@ -987,7 +987,7 @@
             "links": [
                 "Complete Poetry and Prose",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Equality",
                 "Collectivist",
                 "Free Will"
@@ -1005,7 +1005,7 @@
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
-                "Environment",
+                "Advertisement",
                 "Happiness",
                 "Population",
                 "Race",
@@ -1047,7 +1047,7 @@
             "slug": "ditem-57-joan-blades",
             "links": [
                 "\"Big Book\"",
-                "Environment",
+                "Advertisement",
                 "Government",
                 "Media",
                 "Free Will",
@@ -1100,9 +1100,9 @@
         },
         {
             "type": "theme",
-            "name": "Environment",
+            "name": "Advertisement",
             "description": "",
-            "slug": "environment-2"
+            "slug": "advertisement-2"
         },
         {
             "type": "theme",
@@ -1267,7 +1267,7 @@
         {
             "type": "perspective",
             "name": "Determinism",
-            "description": "Episodes in this category include perspectives ranging from strict <a href=\"http://plato.stanford.edu/entries/determinism-causal/\">determinism</a> to determinism tempered by free will. Determinism is a broad category and includes the sense that human actions are largely shaped by the <a href=\"http://en.wikipedia.org/wiki/Environmental_determinism\">environment</a>, <a href=\"http://en.wikipedia.org/wiki/Technological_determinism\">technology</a>, a divine plan, etc. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#free-will\">free will</a>.",
+            "description": "Episodes in this category include perspectives ranging from strict <a href=\"http://plato.stanford.edu/entries/determinism-causal/\">determinism</a> to determinism tempered by free will. Determinism is a broad category and includes the sense that human actions are largely shaped by the <a href=\"http://en.wikipedia.org/wiki/Advertisemental_determinism\">Advertisement</a>, <a href=\"http://en.wikipedia.org/wiki/Technological_determinism\">technology</a>, a divine plan, etc. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#free-will\">free will</a>.",
             "slug": "determinism",
             "count": "3",
             "group": "1259"
@@ -1275,7 +1275,7 @@
         {
             "type": "perspective",
             "name": "Free Will",
-            "description": "Episodes in this category include lean towards attributing human behavior to <a href=\"http://plato.stanford.edu/entries/freewill/\">free will</a>. Human agency may be influenced by larger systems (environmental, technological, atomic, divine), but it is not a prisoner to them. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#determinism\">determinism</a>.",
+            "description": "Episodes in this category include lean towards attributing human behavior to <a href=\"http://plato.stanford.edu/entries/freewill/\">free will</a>. Human agency may be influenced by larger systems (Advertisemental, technological, atomic, divine), but it is not a prisoner to them. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#determinism\">determinism</a>.",
             "slug": "free-will",
             "count": "25",
             "group": "1259"
