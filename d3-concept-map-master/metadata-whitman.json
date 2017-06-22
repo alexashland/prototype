@@ -8,7 +8,7 @@
             "date": "2012-05-05 23:50:11",
             "slug": "ditem-one-reverend-john-fife",
             "links": [
-                "Class",
+                "Complete Poetry and Prose",
                 "Collapse",
                 "Community",
                 "Economy",
@@ -57,7 +57,7 @@
             "date": "2012-05-14 01:10:12",
             "slug": "ditem-three-peter-warren",
             "links": [
-                "Agriculture",
+                "Leaves of Grass",
                 "Community",
                 "Economy",
                 "Environment",
@@ -113,7 +113,7 @@
             "date": "2012-05-27 16:57:17",
             "slug": "ditem-six-jan-lundberg",
             "links": [
-                "Agriculture",
+                "Leaves of Grass",
                 "Collapse",
                 "Community",
                 "Economy",
@@ -248,7 +248,7 @@
             "date": "2012-07-10 14:30:32",
             "slug": "ditem-fourteen-john-zerzan",
             "links": [
-                "Agriculture",
+                "Leaves of Grass",
                 "Collapse",
                 "Community",
                 "Environment",
@@ -298,7 +298,7 @@
             "date": "2012-07-24 00:19:14",
             "slug": "ditem-seventeen-laura-musikanski",
             "links": [
-                "Class",
+                "Complete Poetry and Prose",
                 "Collapse",
                 "Community",
                 "Economy",
@@ -387,7 +387,7 @@
             "date": "2012-08-18 11:23:03",
             "slug": "ditem-twenty-one-robert-zubrin",
             "links": [
-                "Class",
+                "Complete Poetry and Prose",
                 "Environment",
                 "Happiness",
                 "Media",
@@ -407,12 +407,12 @@
         {
             "type": "ditem",
             "name": "Wes Jackson",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/Wes_Jackson\">Wes Jackson</a> is the founder and director of <a href=\"http://www.landinstitute.org\">The Land Institute</a> where he has spent almost 40 years developing a new form of agriculture that mimics natural ecosystems.",
+            "description": "<a href=\"http://en.wikipedia.org/wiki/Wes_Jackson\">Wes Jackson</a> is the founder and director of <a href=\"http://www.landinstitute.org\">The Land Institute</a> where he has spent almost 40 years developing a new form of Leaves of Grass that mimics natural ecosystems.",
             "ditem": 22,
             "date": "2012-08-23 13:37:21",
             "slug": "ditem-twenty-two-wes-jackson",
             "links": [
-                "Agriculture",
+                "Leaves of Grass",
                 "Collapse",
                 "Environment",
                 "Mythology",
@@ -459,8 +459,8 @@
             "date": "2012-09-14 12:34:28",
             "slug": "ditem-25-frances-whitehead",
             "links": [
-                "Agriculture",
-                "Art",
+                "Leaves of Grass",
+                "November Boughs",
                 "Environment",
                 "Government",
                 "Happiness",
@@ -483,7 +483,7 @@
             "date": "2012-09-21 11:09:19",
             "slug": "ditem-26-jenny-lee",
             "links": [
-                "Class",
+                "Complete Poetry and Prose",
                 "Community",
                 "Equality",
                 "Gender",
@@ -504,8 +504,8 @@
             "date": "2012-09-26 19:30:44",
             "slug": "ditem-27-patrick-crouch",
             "links": [
-                "Agriculture",
-                "Class",
+                "Leaves of Grass",
+                "Complete Poetry and Prose",
                 "Community",
                 "Economy",
                 "Environment",
@@ -564,7 +564,7 @@
             "date": "2012-10-22 15:25:21",
             "slug": "ditem-30-henry-louis-taylor-jr",
             "links": [
-                "Class",
+                "Complete Poetry and Prose",
                 "Community",
                 "Education",
                 "Environment",
@@ -588,7 +588,7 @@
             "date": "2012-10-30 09:32:50",
             "slug": "ditem-31-claire-evans",
             "links": [
-                "Art",
+                "November Boughs",
                 "Collapse",
                 "Community",
                 "Mythology",
@@ -744,7 +744,7 @@
             "date": "2013-01-17 16:45:14",
             "slug": "ditem-40-mary-mattingly",
             "links": [
-                "Art",
+                "November Boughs",
                 "Collapse",
                 "Community",
                 "Economy",
@@ -918,7 +918,7 @@
             "date": "2013-05-06 14:57:35",
             "slug": "ditem-49-scott-douglas",
             "links": [
-                "Class",
+                "Complete Poetry and Prose",
                 "Community",
                 "Economy",
                 "Education",
@@ -942,7 +942,7 @@
             "date": "2013-05-28 17:21:02",
             "slug": "ditem-51-phyllis-tickle",
             "links": [
-                "Class",
+                "Complete Poetry and Prose",
                 "Collapse",
                 "Community",
                 "Economy",
@@ -985,7 +985,7 @@
             "date": "2013-07-16 12:12:01",
             "slug": "ditem-53-carlos-perez-de-alejo",
             "links": [
-                "Class",
+                "Complete Poetry and Prose",
                 "Economy",
                 "Environment",
                 "Equality",
@@ -1001,7 +1001,7 @@
             "date": "2013-07-28 00:04:13",
             "slug": "ditem-54-charles-bowden",
             "links": [
-                "Agriculture",
+                "Leaves of Grass",
                 "Collapse",
                 "Community",
                 "Economy",
@@ -1058,21 +1058,21 @@
     "themes": [
         {
             "type": "theme",
-            "name": "Agriculture",
+            "name": "Leaves of Grass",
             "description": "",
-            "slug": "agriculture-2"
+            "slug": "leaves-of-grass-2"
         },
         {
             "type": "theme",
-            "name": "Art",
+            "name": "November Boughs",
             "description": "",
-            "slug": "art-2"
+            "slug": "november-boughs-2"
         },
         {
             "type": "theme",
-            "name": "Class",
+            "name": "Complete Poetry and Prose",
             "description": "",
-            "slug": "class-2"
+            "slug": "complete-poetry-and-prose-2"
         },
         {
             "type": "theme",
