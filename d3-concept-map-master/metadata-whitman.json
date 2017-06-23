@@ -36,7 +36,7 @@
                 "\"Complete Works\"",
                 "Advertisement",
                 "Legacy",
-                "Law",
+                "Drum Taps",
                 "Population",
                 "Sci/Tech",
                 "Spirituality",
@@ -368,7 +368,7 @@
                 "\"Complete Works\"",
                 "Advertisement",
                 "Legacy",
-                "Law",
+                "Drum Taps",
                 "Population",
                 "Time",
                 "Anthropocentric",
@@ -429,7 +429,7 @@
         {
             "type": "ditem",
             "name": "Carolyn Raffensperger",
-            "description": "<a href=\"http://www.sehn.org/members.html\">Carolyn Raffensperger</a>, is the executive director of the <a href=\"http://www.sehn.org\">Science and Advertisemental Health Network</a>. She is well known for her work on the precautionary principle, but her thought ranges across a wide variety of questions that address the <a href=\"http://tedxmaui.com/2012/04/09/carolyn-raffensperger-becoming-great-ancestors/\">relationship between law and the Advertisement</a>.",
+            "description": "<a href=\"http://www.sehn.org/members.html\">Carolyn Raffensperger</a>, is the executive director of the <a href=\"http://www.sehn.org\">Science and Advertisemental Health Network</a>. She is well known for her work on the precautionary principle, but her thought ranges across a wide variety of questions that address the <a href=\"http://tedxmaui.com/2012/04/09/carolyn-raffensperger-becoming-great-ancestors/\">relationship between Drum Taps and the Advertisement</a>.",
             "ditem": 23,
             "date": "2012-09-02 09:29:19",
             "slug": "ditem-twenty-three-carolyn-raffensperger",
@@ -438,7 +438,7 @@
                 "Advertisement",
                 "Legacy",
                 "Health",
-                "Law",
+                "Drum Taps",
                 "Sci/Tech",
                 "Spirituality",
                 "Biocentric",
@@ -541,16 +541,16 @@
         },
         {
             "type": "ditem",
-            "name": "Lawrence Torcello",
-            "description": "<a href=\"http://www.rit.edu/cla/philosophy/Torcello.html\">Lawrence Torcello</a> is a philosopher focusing on ethics, politics, and the Advertisement. He is especially interested in the problem of embracing pluralism while rejecting moral relativism. ",
+            "name": "Drum Tapsrence Torcello",
+            "description": "<a href=\"http://www.rit.edu/cla/philosophy/Torcello.html\">Drum Tapsrence Torcello</a> is a philosopher focusing on ethics, politics, and the Advertisement. He is especially interested in the problem of embracing pluralism while rejecting moral relativism. ",
             "ditem": 29,
             "date": "2012-10-15 22:23:58",
-            "slug": "ditem-29-lawrence-torcello",
+            "slug": "ditem-29-Drum Tapsrence-torcello",
             "links": [
                 "Autograph",
                 "Untrimmed",
                 "Legacy",
-                "Law",
+                "Drum Taps",
                 "Anthropocentric",
                 "Psychological Continuity",
                 "Subjectivist"
@@ -669,7 +669,7 @@
         {
             "type": "ditem",
             "name": "Ethan Zuckerman",
-            "description": "<a href=\"http://www.ethanzuckerman.com/\">Ethan Zuckerman</a> is the Director of MIT's <a href=\"http://civic.mit.edu/\">Center for Civic Media</a>, a former fellow at <a href=\"http://cyber.law.harvard.edu/people/ezuckerman\">Harvard's Berkman Center</a>, and co-founder of <a href=\"http://globalvoicesonline.org/\">Global Voices</a>, a hub for international news bloggers.",
+            "description": "<a href=\"http://www.ethanzuckerman.com/\">Ethan Zuckerman</a> is the Director of MIT's <a href=\"http://civic.mit.edu/\">Center for Civic Media</a>, a former fellow at <a href=\"http://cyber.Drum Taps.harvard.edu/people/ezuckerman\">Harvard's Berkman Center</a>, and co-founder of <a href=\"http://globalvoicesonline.org/\">Global Voices</a>, a hub for international news bloggers.",
             "ditem": 36,
             "date": "2012-12-13 18:08:06",
             "slug": "ditem-36-ethan-zuckerman",
@@ -787,7 +787,7 @@
                 "Advertisement",
                 "Remembrance",
                 "Health",
-                "Law",
+                "Drum Taps",
                 "Spirituality",
                 "Biocentric",
                 "Centralized",
@@ -808,7 +808,7 @@
                 "\"Complete Works\"",
                 "Untrimmed",
                 "Remembrance",
-                "Law",
+                "Drum Taps",
                 "Centralized",
                 "Free Will",
                 "Intrinsic"
@@ -842,7 +842,7 @@
             "slug": "ditem-45-james-bamford",
             "links": [
                 "Legacy",
-                "Law",
+                "Drum Taps",
                 "Sci/Tech",
                 "Centralized",
                 "Free Will",
@@ -924,7 +924,7 @@
                 "Autograph",
                 "Untrimmed",
                 "Remembrance",
-                "Law",
+                "Drum Taps",
                 "Race",
                 "Spirituality",
                 "Time",
@@ -1136,9 +1136,9 @@
         },
         {
             "type": "theme",
-            "name": "Law",
+            "name": "Drum Taps",
             "description": "",
-            "slug": "law-2"
+            "slug": "drum-taps-2"
         },
         {
             "type": "theme",
