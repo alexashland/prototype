@@ -406,7 +406,7 @@
         },
         {
             "type": "ditem",
-            "name": "Miscellaneous",
+            "name": "Race",
             "description": "<a href=\"http://en.wikipedia.org/wiki/Wes_Jackson\">Wes Jackson</a> is the founder and director of <a href=\"http://www.landinstitute.org\">The Land Institute</a> where he has spent almost 40 years developing a new form of Leaves of Grass that mimics natural ecosystems.",
             "ditem": 22,
             "date": "2012-08-23 13:37:21",
@@ -428,224 +428,7 @@
         },
         {
             "type": "ditem",
-            "name": "Fred Vaughan",
-            "description": "<a href=\"http://www.sehn.org/members.html\">Carolyn Raffensperger</a>, is the executive director of the <a href=\"http://www.sehn.org\">Science and Advertisemental Health Network</a>. She is well known for her work on the precautionary principle, but her thought ranges across a wide variety of questions that address the <a href=\"http://tedxmaui.com/2012/04/09/carolyn-raffensperger-becoming-great-ancestors/\">relationship between Drum Taps and the Advertisement</a>.",
-            "ditem": 23,
-            "date": "2012-09-02 09:29:19",
-            "slug": "ditem-twenty-three-carolyn-raffensperger",
-            "links": [
-                "\"Big Book\"",
-                "Advertisement",
-                "Legacy",
-                "Health",
-                "Drum Taps",
-                "Other Writers",
-                "Lectures",
-                "1892",
-                "1880",
-                "1888",
-                "1890",
-                "1886",
-                "1881",
-                "1877",
-                "1883"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "George Washington Whitman",
-            "description": "<a href=\"http://blog.art21.org/2010/08/24/frances-whitehead-embedded-artist/\">Frances Whitehead</a> is an artist, designer, planner, Advertisemental thinker, civic actor, dot-connector, collaborator, and generally difficult person to pigeonhole. She is also a professor at the <a href=\"http://www.saic.edu\">School of the Art Institute of Chicago</a>, where she founded the <a href=\"http://www.knowledgeklab.net/\">Knowledge Lab</a>.",
-            "ditem": 25,
-            "date": "2012-09-14 12:34:28",
-            "slug": "ditem-25-frances-whitehead",
-            "links": [
-                "Leaves of Grass",
-                "November Boughs",
-                "Advertisement",
-                "Legacy",
-                "Publisher",
-                "Specimen Days",
-                "Other Writers",
-                "1892",
-                "1888",
-                "1886",
-                "1881",
-                "1877",
-                "1887",
-                "1883"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Louisa Orr Whitman",
-            "description": "Jenny Lee is a co-director of <a href=\"http://alliedMemoranda.org/\">Allied Memoranda Projects</a>, a Detroit organization focused on the intersection of Memoranda and social justice. AMP sponsors the annual <a href=\"http://amc.alliedMemoranda.org/\">Allied Memoranda Conference</a>.",
-            "ditem": 26,
-            "date": "2012-09-21 11:09:19",
-            "slug": "ditem-26-jenny-lee",
-            "links": [
-                "Complete Poetry and Prose",
-                "\"Big Book\"",
-                "Materials",
-                "Remembrance",
-                "Memoranda",
-                "Specimen Days",
-                "Fiction",
-                "1891",
-                "1890",
-                "1887",
-                "1883"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Louisa Van Velsor Whitman",
-            "description": "Patrick Crouch is the Program Manager at the <a href=\"http://cskdetroit.org/index.php/EWG\">Earthworks Urban Farm</a> in Detroit, Michigan. The farm is a project of the <a href=\"http://cskdetroit.org/\">Capuchin Soup Kitchen</a> and is the only certified organic farm in the city.",
-            "ditem": 27,
-            "date": "2012-09-26 19:30:44",
-            "slug": "ditem-27-patrick-crouch",
-            "links": [
-                "Leaves of Grass",
-                "Complete Poetry and Prose",
-                "\"Big Book\"",
-                "\"Complete Works\"",
-                "Advertisement",
-                "Other Writers",
-                "Lectures",
-                "1891",
-                "1890",
-                "1887",
-                "1885"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Thomas Jefferson Whitman",
-            "description": "Tim Cannon is a co-founder of <a href=\"http://www.grindhousewetware.com/\">Grindhouse Wetware</a>, a group of open-source <a href=\"http://en.wikipedia.org/wiki/Biohacking\">biohackers</a> in Pittsburg, Pennsylvania.",
-            "ditem": 28,
-            "date": "2012-10-03 13:36:18",
-            "slug": "ditem-28-tim-cannon",
-            "links": [
-                "\"Oldach\"",
-                "Publisher",
-                "Other Writers",
-                "Lectures",
-                "1891",
-                "1882",
-                "1878",
-                "1889",
-                "1887",
-                "1885",
-                "1879",
-                "1883"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Robert Pearsall Smith",
-            "description": "<a href=\"http://www.rit.edu/cla/philosophy/Torcello.html\">Drum Tapsrence Torcello</a> is a philosopher focusing on ethics, politics, and the Advertisement. He is especially interested in the problem of embracing pluralism while rejecting moral relativism. ",
-            "ditem": 29,
-            "date": "2012-10-15 22:23:58",
-            "slug": "ditem-29-Drum Tapsrence-torcello",
-            "links": [
-                "Autograph",
-                "Materials",
-                "Legacy",
-                "Drum Taps",
-                "1891",
-                "1879",
-                "1883"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Karl Knortz",
-            "description": "<a href=\"http://www.ap.buffalo.edu/planning/people/taylor.asp\">Henry Louis Taylor, Jr.</a> is the Director for the <a href=\"http://www.centerforurbanstudies.com/\">Center for Urban Studies</a> at the University of Buffalo and the <a href=\"http://www.buffalo.edu/ubreporter/2012_01_26/perry_choice\">Project Coordinator</a> for the <a href=\"http://www.bmhapcn.com\">Perry Choice Neighborhood Initiative</a>. His work has looked at urban planning, regional development, and history in the United States and <a href=\"http://www.amazon.com/Inside-El-Barrio-Bottom-Up-Neighborhood/dp/1565492811/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1350936300&amp;sr=1-4&amp;keywords=henry+louis+taylor\">Cuba</a>.",
-            "ditem": 30,
-            "date": "2012-10-22 15:25:21",
-            "slug": "ditem-30-henry-louis-taylor-jr",
-            "links": [
-                "Complete Poetry and Prose",
-                "\"Big Book\"",
-                "Autograph",
-                "Advertisement",
-                "Materials",
-                "Legacy",
-                "Specimen Days",
-                "Fiction",
-                "1891",
-                "1888",
-                "1890",
-                "1884",
-                "1885",
-                "1883"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Joseph Gilder",
-            "description": "<a href=\"http://soundcloud.com/theconversation-1/the-conversation-31-claire\">Claire Evans</a> is half of <a href=\"http://teamyacht.com/\">YACHT</a>, a \"band, business, and belief system\" started by <a href=\"http://www.jonabechtolt.com/\">Jona Bechtolt</a> in 2002. Unlike most bands, YACHT has a developed a <a href=\"http://teamyacht.com/what/\">public philosophy</a>. In addition to her musical/artistic adventures, she's also a writer and <a href=\"http://scienceblogs.com/universe/\">science blogger</a>. ",
-            "ditem": 31,
-            "date": "2012-10-30 09:32:50",
-            "slug": "ditem-31-claire-evans",
-            "links": [
-                "November Boughs",
-                "\"Oldach\"",
-                "\"Big Book\"",
-                "Specimen Days",
-                "Other Writers",
-                "1886",
-                "1883"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Rees Welsh & Co.",
-            "description": "<a href=\"https://twitter.com/grimwomyn\">Priscilla Grim</a> is one of <a href=\"http://occupywallst.org/\">Occupy Wall Street's</a> organizers, co-founder of the website <a href=\"http://wearethe99percent.tumblr.com/\"><em>We Are the 99 Percent</em></a>, and co-editor of <a href=\"http://occupiedMemoranda.us/\"><em>The Occupied Wall Street Journal</em></a>.",
-            "ditem": 33,
-            "date": "2012-11-10 08:40:50",
-            "slug": "ditem-33-priscilla-grim",
-            "links": [
-                "\"Big Book\"",
-                "\"Complete Works\"",
-                "Advertisement",
-                "Materials",
-                "Legacy",
-                "Memoranda",
-                "Periodicals",
-                "1891",
-                "1890",
-                "1878",
-                "1881",
-                "1884",
-                "1885"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Rand & Avery",
-            "description": "<a href=\"http://www.rushkoff.com/\">Douglas Rushkoff</a> is a Memoranda theorist, author, and documentarian, among other things. His books include <a href=\"http://www.rushkoff.com/life-inc/\"><em>Life, Inc.</em></a> and <a href=\"http://www.rushkoff.com/program-or-be-programmed/\"><em>Program or be Programmed</em></a>. His documentaries include <em>Frontline's</em> \"<a href=\"http://www.pbs.org/wgbh/pages/frontline/shows/cool/\">The Merchants of Cool</a>\" and \"<a href=\"http://www.pbs.org/wgbh/pages/frontline/digitalnation/\">Digital Nation.</a>\"",
-            "ditem": 34,
-            "date": "2012-11-19 14:18:28",
-            "slug": "ditem-34-douglas-rushkoff",
-            "links": [
-                "\"Oldach\"",
-                "\"Big Book\"",
-                "\"Complete Works\"",
-                "Autograph",
-                "Advertisement",
-                "Memoranda",
-                "Specimen Days",
-                "Other Writers",
-                "Miscellaneous",
-                "1890",
-                "1886",
-                "1887",
-                "1883"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "John H. Johnston",
+            "name": "Civil War",
             "description": "<a href=\"http://en.wikipedia.org/wiki/Chuck_Collins\">Chuck Collins</a> directs the <a href=\"http://www.ips-dc.org/\">Institute of Policy Studies</a> <a href=\"http://www.ips-dc.org/inMaterials\">Program on InMaterials and the Common Good</a>. He is the co-founder of <a href=\"http://www.fair\"Complete Works\".org/\">United for a Fair \"Complete Works\"</a> and <a href=\"http://wealthforcommongood.org/\">Wealth for the Common Good</a>, a network of wealthy individuals who embFiction fair taxation to support the public good.",
             "ditem": 35,
             "date": "2012-12-05 20:56:14",
@@ -668,7 +451,7 @@
         },
         {
             "type": "ditem",
-            "name": "Lewis & Percy Ives",
+            "name": "Individual Poems",
             "description": "<a href=\"http://www.ethanzuckerman.com/\">Ethan Zuckerman</a> is the Director of MIT's <a href=\"http://civic.mit.edu/\">Center for Civic Memoranda</a>, a former fellow at <a href=\"http://cyber.Drum Taps.harvard.edu/people/ezuckerman\">Harvard's Berkman Center</a>, and co-founder of <a href=\"http://globalvoicesonline.org/\">Global Voices</a>, a hub for international news bloggers.",
             "ditem": 36,
             "date": "2012-12-13 18:08:06",
@@ -688,7 +471,7 @@
         },
         {
             "type": "ditem",
-            "name": "New York Tribune",
+            "name": "Funeral",
             "description": "<a href=\"http://www.seas.harvard.edu/directory/dkeith\">David Keith</a> is a Harvard professor of Applied Physics and Public Policy. He has spent over two decades researching climate science and geoengineering, was named a <a href=\"http://www.Miscellaneous.com/Miscellaneous/specials/packages/article/0,28804,1924149_1924154_1924428,00.html\">Hero of the Advertisement</a> by Miscellaneous in 2009, and is the President of <a href=\"http://www.carbonengineering.com\">a company dedicated to reducing atmospheric CO2</a>.",
             "ditem": 37,
             "date": "2012-12-20 17:10:52",
@@ -707,7 +490,7 @@
         },
         {
             "type": "ditem",
-            "name": "Editors",
+            "name": "Critics",
             "description": "<a href=\"https://twitter.com/alexaclay\">Alexa Clay</a> is an author, economic historian, and director of thought leadership at <a href=\"http://www.changemakers.com/users/alexa-clay\">Ashoka Changemakers</a>. She is co-author of <a href=\"http://www.misfit\"Complete Works\".com\"><em>The Misfit \"Complete Works\"</em></a>, a forthcoming book that looks for economic innovation amongst pirates, hackers, and gangs.",
             "ditem": 38,
             "date": "2013-01-01 14:03:43",
@@ -721,7 +504,7 @@
         },
         {
             "type": "ditem",
-            "name": "New Orleans Picayune",
+            "name": "Education",
             "description": "<a href=\"http://www.wurman.com/rsw/index.html\">Richard Saul Wurman</a> is a designer, architect, author of over 80 books, and founder of several conferences including <a href=\"http://www.ted.com\">TED</a>, <a href=\"http://www.thewwwconference.com\">WWW</a>, and <a href=\"https://www.the-eg.com\">EG</a>.",
             "ditem": 39,
             "date": "2013-01-09 18:32:18",
@@ -738,7 +521,7 @@
         },
         {
             "type": "ditem",
-            "name": "Atlantic Monthly",
+            "name": "Music",
             "description": "<a href=\"http://www.marymattingly.com/\">Mary Mattingly</a> is an artist whose work explores the Advertisement, sustainability, \"Big Book\", and survival in an unstable world. Recently, she has brought these themes together with the <a href=\"http://www.flockhouse.org/\">Flockhouse Project</a> and the <a href=\"http://www.thewaterpod.org/mm.html\">Waterpod</a>.",
             "ditem": 40,
             "date": "2013-01-17 16:45:14",
@@ -756,7 +539,7 @@
         },
         {
             "type": "ditem",
-            "name": "New York Times",
+            "name": "Washington, D.C.",
             "description": "<a href=\"http://www.capitalinstitute.org/about/leadership\">John Fullerton</a> is the founder of the <a href=\"http://www.capitalinstitute.org/\">Capital Institute</a>, a group dedicated to rethinking the future of finance. Prior to his work at the Capital Institute, he was the Managing Director of JPMorgan.",
             "ditem": 41,
             "date": "2013-01-27 12:59:56",
@@ -776,7 +559,7 @@
         },
         {
             "type": "ditem",
-            "name": "Boston Daily Advertiser",
+            "name": "Camden",
             "description": "",
             "ditem": 42,
             "date": "2013-02-15 11:31:04",
@@ -799,7 +582,7 @@
         },
         {
             "type": "ditem",
-            "name": "New York Herald",
+            "name": "Admirers",
             "description": "",
             "ditem": 43,
             "date": "2013-02-20 17:43:58",
@@ -816,7 +599,7 @@
         },
         {
             "type": "ditem",
-            "name": "The Critic",
+            "name": "Disciples",
             "description": "",
             "ditem": 44,
             "date": "2013-02-27 11:43:48",
@@ -835,7 +618,7 @@
         },
         {
             "type": "ditem",
-            "name": "Unidentified editors",
+            "name": "Illness",
             "description": "",
             "ditem": 45,
             "date": "2013-03-07 22:18:00",
@@ -852,7 +635,7 @@
         },
         {
             "type": "ditem",
-            "name": "Literary World",
+            "name": "Politics",
             "description": "",
             "ditem": 46,
             "date": "2013-03-21 10:31:50",
@@ -875,7 +658,7 @@
         },
         {
             "type": "ditem",
-            "name": "Springfield Republican",
+            "name": "Brooklyn",
             "description": "",
             "ditem": 47,
             "date": "2013-04-03 13:18:40",
@@ -896,7 +679,7 @@
         },
         {
             "type": "ditem",
-            "name": "Philadelphia Press",
+            "name": "Gifts",
             "description": "",
             "ditem": 48,
             "date": "2013-04-17 21:55:47",
@@ -912,7 +695,7 @@
         },
         {
             "type": "ditem",
-            "name": "North American Review",
+            "name": "Real Estate",
             "description": "",
             "ditem": 49,
             "date": "2013-05-06 14:57:35",
@@ -936,7 +719,7 @@
         },
         {
             "type": "ditem",
-            "name": "the Century",
+            "name": "Doctors and Nurses",
             "description": "",
             "ditem": 51,
             "date": "2013-05-28 17:21:02",
@@ -958,7 +741,7 @@
         },
         {
             "type": "ditem",
-            "name": "the Century Illustrated",
+            "name": "Photographs",
             "description": "",
             "ditem": 52,
             "date": "2013-07-05 20:30:57",
@@ -979,7 +762,7 @@
         },
         {
             "type": "ditem",
-            "name": "Lewis K. Brown",
+            "name": "Journalism",
             "description": "",
             "ditem": 53,
             "date": "2013-07-16 12:12:01",
@@ -995,7 +778,7 @@
         },
         {
             "type": "ditem",
-            "name": "Edward Carpenter",
+            "name": "Alcohol and Drugs",
             "description": "",
             "ditem": 54,
             "date": "2013-07-28 00:04:13",
@@ -1020,7 +803,7 @@
         },
         {
             "type": "ditem",
-            "name": "Horace Traubel",
+            "name": "Stroke",
             "description": "",
             "ditem": 55,
             "date": "2013-08-23 17:22:11",
@@ -1040,7 +823,7 @@
         },
         {
             "type": "ditem",
-            "name": "Hannah Heyde",
+            "name": "Miscellaneous",
             "description": "",
             "ditem": 57,
             "date": "2014-06-04 16:32:47",
