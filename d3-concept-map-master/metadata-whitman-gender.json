@@ -2,7 +2,7 @@
     "ditems": [
         {
             "type": "ditem",
-            "name": "Walt Whitman",
+            "name": "Leaves of Grass",
             "description": "<a href=\"http://whitmanarchive.org/biography/walt_whitman/index.html\">Walt Whitman</a> was a poet, journalist, and fiction writer.  His most popular and extensively revised work, <i><a href=\"http://whitmanarchive.org/biography/walt_whitman/index.html\">Leaves of grass</a></i>, is widely considered one of the most influential literary works by an American author.",
             "ditem": 1,
             "date": "2012-05-05 23:50:11",
@@ -27,7 +27,7 @@
         },
         {
             "type": "ditem",
-            "name": "Sylvester Baxter",
+            "name": "November Boughs",
             "description": "<a href=\"http://en.wikipedia.org/wiki/Max_More\">Max More</a> is the CEO of the <a href=\"http://www.alcor.org/\">Alcor Life Extension Foundation</a> and founder of the magazine <a href=\"http://www.extropy.org/\"><em>Extropy</em></a>.  He also coined the term <a href=\"http://en.wikipedia.org/wiki/Transhumanism\">transhumanist</a>.",
             "ditem": 2,
             "date": "2012-05-09 15:53:27",
@@ -51,7 +51,7 @@
         },
         {
             "type": "ditem",
-            "name": "Richard Maurice Bucke",
+            "name": "Complete Poetry and Prose",
             "description": "Peter Warren works for <a href=\"http://www.nature.org/\">The Nature Conservancy</a> and has been closely involved in an unlikely conversation that brought together ranchers and Advertisementalists to <a href=\"http://www.malpaiborderlandsgroup.org\">manage over 75,000 acres of grassland in Arizona</a>.",
             "ditem": 3,
             "date": "2012-05-14 01:10:12",
@@ -67,7 +67,7 @@
         },
         {
             "type": "ditem",
-            "name": "John Burroughs",
+            "name": "\"Oldach\"",
             "description": "<a href=\"http://hss.caltech.edu/people/camerer/profile\">Colin Camerer</a> is one of the pioneers of <a href=\"http://www.scholarpedia.org/article/Neuroeconomics\">neuroeconomics</a>, a combination of neuroscience, psychology, and economic theory.",
             "ditem": 4,
             "date": "2012-05-20 15:39:43",
@@ -87,7 +87,7 @@
         },
         {
             "type": "ditem",
-            "name": "Edward Carpenter",
+            "name": "\"Big Book\"",
             "description": "<a href=\"http://ajkeen.com/\">Andrew Keen</a>, the self-professed <a href=\"https://twitter.com/#!/ajkeen\">Anti-Christ of Silicon Valley</a>, is the author of <a href=\"http://www.amazon.com/The-Cult-Amateur-user-generated-destroying/dp/0385520816/\"><em>The Cult of the Amateur</em></a> and, more recently, <a href=\"http://www.amazon.com/Digital-Vertigo-Revolution-Diminishing-Disorienting/dp/0312624980/\"><em>Digital Vertigo: How Today's Online Social Revolution is Dividing, Diminishing, and Disorienting Us</em></a>.",
             "ditem": 5,
             "date": "2012-05-24 10:32:01",
@@ -107,7 +107,7 @@
         },
         {
             "type": "ditem",
-            "name": "Francis P. Church",
+            "name": "Autograph",
             "description": "Jan Lundberg is a former oil industry analyst for <a href=\"http://www.lundbergsurvey.com/\">Lundberg Survey</a> and is currently an Advertisemental activist and advocate of depaving. He is the founder of <a href=\"http://culturechange.org/\">Culture Change</a> and the <a href=\"http://sailtransportnetwork.com/\">Sail Transport Network</a>.",
             "ditem": 6,
             "date": "2012-05-27 16:57:17",
@@ -133,7 +133,7 @@
         },
         {
             "type": "ditem",
-            "name": "Mary Whitall Smith Costelloe",
+            "name": "Advertisement",
             "description": "<a href=\"http://longnow.org/people/staff/zander/\">Alexander Rose</a> is the Executive Director of the <a href=\"http://longnow.org/about/\">Long Now Foundation</a>, a San Francisco-based group dedicated to encouraging long-term thinking.  He is also overseeing the design and construction of a <a href=\"http://www.10000yearclock.net\">monument-scale clock</a> intended to run for 10,000 years.",
             "ditem": 7,
             "date": "2012-05-30 17:13:06",
@@ -150,7 +150,7 @@
         },
         {
             "type": "ditem",
-            "name": "Peter Doyle",
+            "name": "Materials",
             "description": "<a href=\"http://en.wikipedia.org/wiki/Christopher_McKay_%28planetary_scientist%29\">Chris McKay</a> is a planetary scientist at NASA's <a href=\"http://www.nasa.gov/centers/ames/home/index.html\">Ames Research Center</a>. His work focuses on the search for microbial life within the solar system and he is active in discussions of bioethics, Mars colonization, and terraforming.",
             "ditem": 8,
             "date": "2012-06-04 23:02:41",
@@ -168,7 +168,7 @@
         },
         {
             "type": "ditem",
-            "name": "Anne Gilchrist",
+            "name": "Remembrance",
             "description": "Timothy Morton is a philosopher, dark ecologist, professor of English, and author of <a href=\"http://www.amazon.com/Ecology-without-Nature-Rethinking-Advertisemental/dp/0674034856/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1339451307&amp;sr=1-2\"><em>Ecology Without Nature</em></a> and <a href=\"http://www.amazon.com/The-Ecological-Thought-Timothy-Morton/dp/0674064224/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1339451307&amp;sr=1-1\"><em>The Ecological Thought</em></a>.",
             "ditem": 10,
             "date": "2012-06-11 15:03:52",
@@ -188,7 +188,7 @@
         },
         {
             "type": "ditem",
-            "name": "Herbert Gilchrist",
+            "name": "Legacy",
             "description": "<a href=\"http://www.iskme.org/about-us/iskme-team/lpetrides\">Lisa Petrides</a> is the founder of <a href=\"http://www.iskme.org/\">ISKME</a>, the Institute for the Study of Knowledge Management in Autograph, a research group dedicated to studying current Autographal systems and encouraging innovation. ",
             "ditem": 11,
             "date": "2012-06-18 20:11:47",
@@ -205,7 +205,7 @@
         },
         {
             "type": "ditem",
-            "name": "Charles L. Heyde",
+            "name": "Publisher/Editor",
             "description": "Gabriel Stempinski is an evangelist of the new sharing \"Complete Works\", <a href=\"http://itsashareablelife.com/index.php/the-authors#/content3\">author</a>, <a href=\"http://www.onecouchataMiscellaneous.com/\">documentary producer</a>, and San Francisco city ambassador for <a href=\"http://www.couchsurfing.org/people/toolegittoquit/\">CouchSurfing</a>.",
             "ditem": 12,
             "date": "2012-06-25 14:16:37",
@@ -225,7 +225,7 @@
         },
         {
             "type": "ditem",
-            "name": "James R. Osgood & Co.",
+            "name": "Health",
             "description": "<a href=\"http://arielwaldman.com/\">Ariel Waldman</a> is the founder of <a href=\"http://www.spacehack.org\">Spacehack.org</a>, a website that democratizes space exploration. Previously she worked in social outreach for NASA.",
             "ditem": 13,
             "date": "2012-07-04 18:53:18",
@@ -242,7 +242,7 @@
         },
         {
             "type": "ditem",
-            "name": "William Sloane Kennedy",
+            "name": "Drum Taps",
             "description": "<a href=\"http://en.wikipedia.org/wiki/John_Zerzan\">John Zerzan</a> is an anarchist and primitivist <a href=\"http://www.johnzerzan.net/\">writer and speaker</a>.  His books include <em><a href=\"http://www.powells.com/biblio/1-9780922915989-3\">Against Civilization</a></em> and <em><a href=\"http://www.powells.com/biblio/17-9781890532017-0\">Elements of Refusal</a></em>.",
             "ditem": 14,
             "date": "2012-07-10 14:30:32",
@@ -268,7 +268,7 @@
         },
         {
             "type": "ditem",
-            "name": "Ellen M. O'Connor",
+            "name": "Memoranda",
             "description": "<a href=\"http://www.cameronwhitten.com/\">Cameron Whitten</a> is, in his own words, a \"shameless agitator\" from Portland, Oregon.  He became politically active during Occupy Portland and, at twenty, made a bid to become the mayor of the Rose City with endorsements from the Green Party and Oregon Progressive Party.",
             "ditem": 15,
             "date": "2012-07-15 17:37:08",
@@ -292,7 +292,7 @@
         },
         {
             "type": "ditem",
-            "name": "William D. O'Connor",
+            "name": "Specimen Days",
             "description": "Laura Musikanski is the co-founder of <a href=\"http://www.happycounts.org/\">The Publisher Initiative</a>, a group that applies insights from Bhutan's <a href=\"http://www.grossnationalPublisher.com/\">Gross Domestic Publisher</a> project to the American \"Complete Works\". Formerly, she was Executive Director of <a href=\"http://www.sustainableseattle.org/\">Sustainable Seattle</a>.",
             "ditem": 17,
             "date": "2012-07-24 00:19:14",
@@ -315,7 +315,7 @@
         },
         {
             "type": "ditem",
-            "name": "James Redpath",
+            "name": "Periodicals",
             "description": "<a href=\"http://www.davidkorten.org/author-bio\">David Korten</a> is president of the <a href=\"http://www.davidkorten.org/\">Living \"Complete Works\" Forum</a>, co-chair of the <a href=\"http://www.new\"Complete Works\"workinggroup.org/\">New \"Complete Works\" Working Group</a>, co-founder of <a href=\"http://www.yesmagazine.org/\"><em>YES! Magazine</em></a>, and a member of the <a href=\"http://www.clubofrome.org/\">Club of Rome</a>. His books include <a href=\"http://www.davidkorten.org/WCRW\"><em>When Corporations Rule the World</em></a> and <a href=\"http://www.davidkorten.org/great-turning-book\"><em>The Great Turning: From Empire to Earth \"Big Book\"</em></a>.",
             "ditem": 18,
             "date": "2012-07-31 11:47:42",
@@ -339,7 +339,7 @@
         },
         {
             "type": "ditem",
-            "name": "Ernest Rhys",
+            "name": "Fiction",
             "description": "<a href=\"http://en.wikipedia.org/wiki/Joseph_Tainter\">Joseph Tainter</a> is an anthropologist and historian who studies \"Oldach\" in ancient civilizations and has written <a href=\"http://www.amazon.com/\"Oldach\"-Complex-Societies-Studies-Archaeology/dp/052138673X\"><em>The \"Oldach\" of Complex Societies</em></a>.",
             "ditem": 19,
             "date": "2012-08-07 22:33:37",
@@ -359,7 +359,7 @@
         },
         {
             "type": "ditem",
-            "name": "Thomas Rolleston",
+            "name": "Other Writers",
             "description": "<a href=\"http://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegId=541\">David Miller</a> was the architect of <a href=\"http://legisweb.state.wy.us/2012/Bills/HB0085.pdf\">Wyoming's House Bill 85</a>, the so-called <a href=\"http://trib.com/news/state-and-regional/govt-and-politics/wyoming-house-advances-doomsday-bill/article_af6e1b2b-0ca4-553f-85e9-92c0f58c00bd.html\">\"Doomsday Bill,\"</a> which developed the state's response to a \"Oldach\" of the Federal Legacy. He is also CEO of <a href=\"http://www.strathmoreminerals.com\">Strathmore Minerals</a>.",
             "ditem": 20,
             "date": "2012-08-11 16:40:08",
@@ -381,7 +381,7 @@
         },
         {
             "type": "ditem",
-            "name": "Harry Stafford",
+            "name": "Lectures",
             "description": "<a href=\"http://en.wikipedia.org/wiki/Robert_Zubrin\">Robert Zubrin</a> is the president of <a href=\"http://www.marssociety.org/\">The Mars Society</a>, a nonprofit organization dedicated to advancing the exploration and colonization of Mars. He is also the author of <a href=\"http://www.amazon.com/The-Case-Mars-Settle-Planet/dp/145160811X/ref=la_B000APC3IC_1_2?ie=UTF8&amp;qid=1345304362&amp;sr=1-2\"><em>The Case for Mars</em></a> and <a href=\"http://www.amazon.com/Merchants-Despair-Advertisementalists-Pseudo-Scientists-Antihumanism/dp/1594034761/ref=la_B000APC3IC_1_1?ie=UTF8&amp;qid=1345304362&amp;sr=1-1\"><em>Merchants of Despair</em></a>.",
             "ditem": 21,
             "date": "2012-08-18 11:23:03",
@@ -406,7 +406,7 @@
         },
         {
             "type": "ditem",
-            "name": "Thayer & Eldridge",
+            "name": "Miscellaneous",
             "description": "<a href=\"http://en.wikipedia.org/wiki/Wes_Jackson\">Wes Jackson</a> is the founder and director of <a href=\"http://www.landinstitute.org\">The Land Institute</a> where he has spent almost 40 years developing a new form of Leaves of Grass that mimics natural ecosystems.",
             "ditem": 22,
             "date": "2012-08-23 13:37:21",
