@@ -17,9 +17,9 @@
                 "Legacy",
                 "Fiction",
                 "Lectures",
-                "1892",
-                "1888",
-                "1890",
+                "Brown, Lewis K.",
+                "Church, Francis P.",
+                "Burroughs, John",
                 "1886",
                 "1884",
                 "1879"
@@ -40,10 +40,10 @@
                 "Periodicals",
                 "Other Writers",
                 "Lectures",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1878",
-                "1889",
-                "1887",
+                "Carpenter, Edward",
+                "Doyle, Peter",
                 "1884",
                 "1885",
                 "1879"
@@ -57,12 +57,12 @@
             "date": "2012-05-14 01:10:12",
             "slug": "ditem-three-peter-warren",
             "links": [
-                "Leaves of Grass",
+                "Costelloe, Mary Whitall Smith",
                 "\"Big Book\"",
                 "\"Complete Works\"",
                 "Advertisement",
                 "Legacy",
-                "1891"
+                "Bucke, Richard Maurice"
             ]
         },
         {
@@ -80,7 +80,7 @@
                 "Materials",
                 "Publisher",
                 "Other Writers",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1885",
                 "1883"
             ]
@@ -100,9 +100,9 @@
                 "Publisher",
                 "Memoranda",
                 "Other Writers",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1880",
-                "1890"
+                "Burroughs, John"
             ]
         },
         {
@@ -113,7 +113,7 @@
             "date": "2012-05-27 16:57:17",
             "slug": "ditem-six-jan-lundberg",
             "links": [
-                "Leaves of Grass",
+                "Costelloe, Mary Whitall Smith",
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
@@ -121,13 +121,13 @@
                 "Periodicals",
                 "Other Writers",
                 "Lectures",
-                "1892",
+                "Brown, Lewis K.",
                 "1880",
-                "1890",
+                "Burroughs, John",
                 "1886",
                 "1881",
                 "1877",
-                "1887",
+                "Doyle, Peter",
                 "1884"
             ]
         },
@@ -145,7 +145,7 @@
                 "Periodicals",
                 "Other Writers",
                 "Miscellaneous",
-                "1891"
+                "Bucke, Richard Maurice"
             ]
         },
         {
@@ -160,7 +160,7 @@
                 "Periodicals",
                 "Other Writers",
                 "Miscellaneous",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1878",
                 "1884",
                 "1885"
@@ -199,8 +199,8 @@
                 "Advertisement",
                 "Materials",
                 "Other Writers",
-                "1891",
-                "1890"
+                "Bucke, Richard Maurice",
+                "Burroughs, John"
             ]
         },
         {
@@ -218,9 +218,9 @@
                 "Periodicals",
                 "Other Writers",
                 "Miscellaneous",
-                "1891",
-                "1890",
-                "1887"
+                "Bucke, Richard Maurice",
+                "Burroughs, John",
+                "Doyle, Peter"
             ]
         },
         {
@@ -234,8 +234,8 @@
                 "Materials",
                 "Publisher",
                 "Other Writers",
-                "1891",
-                "1889",
+                "Bucke, Richard Maurice",
+                "Carpenter, Edward",
                 "1884",
                 "1885"
             ]
@@ -243,26 +243,25 @@
         {
             "type": "ditem",
             "name": "Drum Taps",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/John_Zerzan\">John Zerzan</a> is an anarchist and primitivist <a href=\"http://www.johnzerzan.net/\">writer and speaker</a>.  His books include <em><a href=\"http://www.powells.com/biblio/1-9780922915989-3\">Against Civilization</a></em> and <em><a href=\"http://www.powells.com/biblio/17-9781890532017-0\">Elements of Refusal</a></em>.",
+            "description": "<a href=\"http://en.wikipedia.org/wiki/John_Zerzan\">John Zerzan</a> is an anarchist and primitivist <a href=\"http://www.johnzerzan.net/\">writer and speaker</a>.  His books include <em><a href=\"http://www.powells.com/biblio/1-9780922915989-3\">Against Civilization</a></em> and <em><a href=\"http://www.powells.com/biblio/17-978Burroughs, John532017-0\">Elements of Refusal</a></em>.",
             "ditem": 14,
             "date": "2012-07-10 14:30:32",
             "slug": "ditem-fourteen-john-zerzan",
             "links": [
-                "Leaves of Grass",
+                "Costelloe, Mary Whitall Smith",
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "Advertisement",
                 "Materials",
-                "Health",
                 "Periodicals",
                 "Other Writers",
                 "Lectures",
-                "1892",
+                "Brown, Lewis K.",
                 "1880",
                 "1886",
                 "1881",
                 "1877",
-                "1887",
+                "Doyle, Peter",
                 "1884"
             ]
         },
@@ -283,8 +282,8 @@
                 "Periodicals",
                 "Fiction",
                 "Other Writers",
-                "1891",
-                "1890",
+                "Bucke, Richard Maurice",
+                "Burroughs, John",
                 "1886",
                 "1881",
                 "1883"
@@ -306,8 +305,8 @@
                 "Legacy",
                 "Publisher",
                 "Periodicals",
-                "1891",
-                "1888",
+                "Bucke, Richard Maurice",
+                "Church, Francis P.",
                 "1886",
                 "1881",
                 "1884"
@@ -330,11 +329,11 @@
                 "Periodicals",
                 "Other Writers",
                 "Lectures",
-                "1892",
-                "1890",
+                "Brown, Lewis K.",
+                "Burroughs, John",
                 "1886",
                 "1881",
-                "1887"
+                "Doyle, Peter"
             ]
         },
         {
@@ -351,7 +350,7 @@
                 "Legacy",
                 "Publisher",
                 "Other Writers",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1882",
                 "1884",
                 "1885"
@@ -371,11 +370,11 @@
                 "Drum Taps",
                 "Periodicals",
                 "Miscellaneous",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1878",
                 "1881",
-                "1889",
-                "1887",
+                "Carpenter, Edward",
+                "Doyle, Peter",
                 "1884"
             ]
         },
@@ -394,12 +393,12 @@
                 "Periodicals",
                 "Fiction",
                 "Other Writers",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1880",
                 "1878",
                 "1881",
-                "1889",
-                "1887",
+                "Carpenter, Edward",
+                "Doyle, Peter",
                 "1884",
                 "1885"
             ]
@@ -407,20 +406,20 @@
         {
             "type": "ditem",
             "name": "Race",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/Wes_Jackson\">Wes Jackson</a> is the founder and director of <a href=\"http://www.landinstitute.org\">The Land Institute</a> where he has spent almost 40 years developing a new form of Leaves of Grass that mimics natural ecosystems.",
+            "description": "<a href=\"http://en.wikipedia.org/wiki/Wes_Jackson\">Wes Jackson</a> is the founder and director of <a href=\"http://www.landinstitute.org\">The Land Institute</a> where he has spent almost 40 years developing a new form of Costelloe, Mary Whitall Smith that mimics natural ecosystems.",
             "ditem": 22,
             "date": "2012-08-23 13:37:21",
             "slug": "ditem-twenty-two-wes-jackson",
             "links": [
-                "Leaves of Grass",
+                "Costelloe, Mary Whitall Smith",
                 "\"Oldach\"",
                 "Advertisement",
                 "Specimen Days",
                 "Periodicals",
                 "Other Writers",
                 "1880",
-                "1888",
-                "1890",
+                "Church, Francis P.",
+                "Burroughs, John",
                 "1886",
                 "1881",
                 "1884"
@@ -441,11 +440,11 @@
                 "Materials",
                 "Legacy",
                 "Publisher",
-                "Health",
+                "Gilchrist, Anne",
                 "Lectures",
-                "1890",
+                "Burroughs, John",
                 "1886",
-                "1887",
+                "Doyle, Peter",
                 "1883"
             ]
         },
@@ -461,11 +460,11 @@
                 "Autograph",
                 "Advertisement",
                 "Legacy",
-                "Health",
+                "Gilchrist, Anne",
                 "Memoranda",
                 "Specimen Days",
                 "Other Writers",
-                "1888",
+                "Church, Francis P.",
                 "1885"
             ]
         },
@@ -481,8 +480,8 @@
                 "Legacy",
                 "Other Writers",
                 "Lectures",
-                "1892",
-                "1888",
+                "Brown, Lewis K.",
+                "Church, Francis P.",
                 "1877",
                 "1884",
                 "1885"
@@ -498,7 +497,7 @@
             "links": [
                 "\"Complete Works\"",
                 "Publisher",
-                "1887",
+                "Doyle, Peter",
                 "1883"
             ]
         },
@@ -513,9 +512,9 @@
                 "Publisher",
                 "Memoranda",
                 "Specimen Days",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1878",
-                "1889",
+                "Carpenter, Edward",
                 "1883"
             ]
         },
@@ -527,13 +526,13 @@
             "date": "2013-01-17 16:45:14",
             "slug": "ditem-40-mary-mattingly",
             "links": [
-                "November Boughs",
+                "Gilchrist, Anne",
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
                 "Advertisement",
-                "1891",
-                "1887",
+                "Bucke, Richard Maurice",
+                "Doyle, Peter",
                 "1885"
             ]
         },
@@ -550,10 +549,10 @@
                 "Advertisement",
                 "Specimen Days",
                 "Other Writers",
-                "1892",
-                "1890",
+                "Brown, Lewis K.",
+                "Burroughs, John",
                 "1881",
-                "1887",
+                "Doyle, Peter",
                 "1884"
             ]
         },
@@ -569,12 +568,12 @@
                 "\"Complete Works\"",
                 "Advertisement",
                 "Remembrance",
-                "Health",
+                "Gilchrist, Anne",
                 "Drum Taps",
                 "Lectures",
-                "1892",
-                "1888",
-                "1890",
+                "Brown, Lewis K.",
+                "Church, Francis P.",
+                "Burroughs, John",
                 "1886",
                 "1881",
                 "1877"
@@ -592,7 +591,7 @@
                 "Materials",
                 "Remembrance",
                 "Drum Taps",
-                "1888",
+                "Church, Francis P.",
                 "1881",
                 "1877"
             ]
@@ -609,11 +608,11 @@
                 "Advertisement",
                 "Materials",
                 "Remembrance",
-                "Health",
+                "Gilchrist, Anne",
                 "Periodicals",
                 "1881",
                 "1877",
-                "1887"
+                "Doyle, Peter"
             ]
         },
         {
@@ -627,9 +626,9 @@
                 "Legacy",
                 "Drum Taps",
                 "Other Writers",
-                "1888",
+                "Church, Francis P.",
                 "1881",
-                "1889",
+                "Carpenter, Edward",
                 "1877"
             ]
         },
@@ -647,11 +646,11 @@
                 "Advertisement",
                 "Legacy",
                 "Publisher",
-                "Health",
+                "Gilchrist, Anne",
                 "Specimen Days",
                 "Periodicals",
                 "Other Writers",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1881",
                 "1884"
             ]
@@ -670,10 +669,10 @@
                 "Legacy",
                 "Publisher",
                 "Fiction",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1881",
-                "1889",
-                "1887",
+                "Carpenter, Edward",
+                "Doyle, Peter",
                 "1884"
             ]
         },
@@ -690,7 +689,7 @@
                 "Periodicals",
                 "Other Writers",
                 "1882",
-                "1887"
+                "Doyle, Peter"
             ]
         },
         {
@@ -711,8 +710,8 @@
                 "Fiction",
                 "Lectures",
                 "Miscellaneous",
-                "1891",
-                "1890",
+                "Bucke, Richard Maurice",
+                "Burroughs, John",
                 "1886",
                 "1881"
             ]
@@ -733,10 +732,10 @@
                 "Other Writers",
                 "Lectures",
                 "Miscellaneous",
-                "1890",
+                "Burroughs, John",
                 "1886",
                 "1877",
-                "1887"
+                "Doyle, Peter"
             ]
         },
         {
@@ -752,11 +751,11 @@
                 "Legacy",
                 "Periodicals",
                 "Other Writers",
-                "1891",
+                "Bucke, Richard Maurice",
                 "1878",
                 "1881",
-                "1889",
-                "1887",
+                "Carpenter, Edward",
+                "Doyle, Peter",
                 "1885"
             ]
         },
@@ -772,7 +771,7 @@
                 "\"Complete Works\"",
                 "Advertisement",
                 "Materials",
-                "1890",
+                "Burroughs, John",
                 "1881"
             ]
         },
@@ -784,7 +783,7 @@
             "date": "2013-07-28 00:04:13",
             "slug": "ditem-54-charles-bowden",
             "links": [
-                "Leaves of Grass",
+                "Costelloe, Mary Whitall Smith",
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
@@ -795,7 +794,7 @@
                 "Other Writers",
                 "Lectures",
                 "Miscellaneous",
-                "1892",
+                "Brown, Lewis K.",
                 "1881",
                 "1877",
                 "1885"
@@ -816,7 +815,7 @@
                 "Specimen Days",
                 "Other Writers",
                 "Miscellaneous",
-                "1890",
+                "Burroughs, John",
                 "1881",
                 "1883"
             ]
@@ -834,22 +833,22 @@
                 "Legacy",
                 "Memoranda",
                 "1881",
-                "1887"
+                "Doyle, Peter"
             ]
         }
     ],
     "themes": [
         {
             "type": "theme",
-            "name": "Leaves of Grass",
+            "name": "Costelloe, Mary Whitall Smith",
             "description": "",
-            "slug": "leaves-of-grass-2"
+            "slug": "costelloe-mary-whitall-smith-2"
         },
         {
             "type": "theme",
-            "name": "November Boughs",
+            "name": "Gilchrist, Anne",
             "description": "",
-            "slug": "november-boughs-2"
+            "slug": "gilchrist-anne-2"
         },
         {
             "type": "theme",
@@ -969,49 +968,49 @@
     "perspectives": [
         {
             "type": "perspective",
-            "name": "1892",
-            "description": "To varying degrees, these conversations treat human life as having <a href=\"http://en.wikipedia.org/wiki/Biocentrism_%28ethics%29\">similar or equal moral weight</a> to other life. We are also including broader-than-life value sources like <a href=\"http://en.wikipedia.org/wiki/Ecocentrism\">ecocentrism</a> in this category. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#1891\">1891</a>.",
-            "slug": "1892-value-source",
+            "name": "Brown, Lewis K.",
+            "description": "To varying degrees, these conversations treat human life as having <a href=\"http://en.wikipedia.org/wiki/Biocentrism_%28ethics%29\">similar or equal moral weight</a> to other life. We are also including broader-than-life value sources like <a href=\"http://en.wikipedia.org/wiki/Ecocentrism\">ecocentrism</a> in this category. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#Bucke, Richard Maurice\">Bucke, Richard Maurice</a>.",
+            "slug": "Brown-Lewis-K.-value-source",
             "count": "10",
             "group": "281"
         },
         {
             "type": "perspective",
-            "name": "1891",
-            "description": "To varying degrees, these conversations treat human life as having <a href=\"http://en.wikipedia.org/wiki/Anthropocentrism\">greater moral weight</a> than other life. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#1892\">1892</a>.",
-            "slug": "1891-value-source",
+            "name": "Bucke, Richard Maurice",
+            "description": "To varying degrees, these conversations treat human life as having <a href=\"http://en.wikipedia.org/wiki/Anthropocentrism\">greater moral weight</a> than other life. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#Brown, Lewis K.\">Brown, Lewis K.</a>.",
+            "slug": "Bucke-Richard-Maurice-value-source",
             "count": "26",
             "group": "281"
         },
         {
             "type": "perspective",
-            "name": "1890",
-            "description": "Every society attempts to balance individual freedom with collective good. These ditems feature conversations that suggest we have slid too far towards individualism and need to move towards the group. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#1889\">1889</a>.",
-            "slug": "1890",
+            "name": "Burroughs, John",
+            "description": "Every society attempts to balance individual freedom with collective good. These ditems feature conversations that suggest we have slid too far towards individualism and need to move towards the group. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#Carpenter, Edward\">Carpenter, Edward</a>.",
+            "slug": "Burroughs-John",
             "count": "21",
             "group": "284"
         },
         {
             "type": "perspective",
-            "name": "1889",
-            "description": "Every society attempts to balance personal freedom with collective good. These ditems feature conversations that suggest we have slid too far towards collectivism and need to push towards individualism. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#1890\">1890</a>.",
-            "slug": "1889",
+            "name": "Carpenter, Edward",
+            "description": "Every society attempts to balance personal freedom with collective good. These ditems feature conversations that suggest we have slid too far towards collectivism and need to push towards individualism. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#Burroughs, John\">Burroughs, John</a>.",
+            "slug": "Carpenter-Edward",
             "count": "9",
             "group": "284"
         },
         {
             "type": "perspective",
-            "name": "1888",
-            "description": "These ditems feature interviewees who feel the problems they are discussing can be better addressed through 1888 systems than 1887 ones. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#1887\">1887</a>.",
-            "slug": "1888",
+            "name": "Church, Francis P.",
+            "description": "These ditems feature interviewees who feel the problems they are discussing can be better addressed through Church, Francis P. systems than Doyle, Peter ones. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#Doyle, Peter\">Doyle, Peter</a>.",
+            "slug": "Church-Francis-P.",
             "count": "11",
             "group": "287"
         },
         {
             "type": "perspective",
-            "name": "1887",
-            "description": "These ditems feature interviewees who feel the problems they are discussing can be better addressed through 1887 systems than 1888 ones. Antonym: <a>1888</a>.",
-            "slug": "1887",
+            "name": "Doyle, Peter",
+            "description": "These ditems feature interviewees who feel the problems they are discussing can be better addressed through Doyle, Peter systems than Church, Francis P. ones. Antonym: <a>Church, Francis P.</a>.",
+            "slug": "Doyle-Peter",
             "count": "22",
             "group": "287"
         },
