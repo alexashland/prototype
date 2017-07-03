@@ -9,6 +9,7 @@
             "slug": "ditem-one-reverend-john-fife",
             "links": [
                 "Gilder, Jeannette",
+                "O'Connor, Ellen M.",
                 "\"Oldach\"",
                 "\"Big Book\"",
                 "\"Complete Works\"",
@@ -351,7 +352,7 @@
                 "Publisher",
                 "Other Writers",
                 "Bucke, Richard Maurice",
-                "1882",
+                "Kennedy, William Sloane",
                 "Johnson, John Newton",
                 "Heyde, Charles"
             ]
@@ -688,7 +689,7 @@
                 "Autograph",
                 "Periodicals",
                 "Other Writers",
-                "1882",
+                "Kennedy, William Sloane",
                 "Doyle, Peter"
             ]
         },
@@ -706,6 +707,7 @@
                 "Autograph",
                 "Materials",
                 "Remembrance",
+                "O'Connor, Ellen M.",
                 "Drum Taps",
                 "Fiction",
                 "Lectures",
@@ -735,7 +737,8 @@
                 "Burroughs, John",
                 "Gilchrist, Herbert",
                 "1877",
-                "Doyle, Peter"
+                "Doyle, Peter",
+                "O'Connor, Ellen M."
             ]
         },
         {
@@ -858,9 +861,9 @@
         },
         {
             "type": "theme",
-            "name": "\"Oldach\"",
+            "name": "O'Connor, Ellen M.",
             "description": "",
-            "slug": "\"Oldach\"-2"
+            "slug": "O'Connor-Ellen-M.-2"
         },
         {
             "type": "theme",
@@ -1048,9 +1051,9 @@
         },
         {
             "type": "perspective",
-            "name": "1882",
+            "name": "Kennedy, William Sloane",
             "description": "Episodes in this category include perspectives ranging from strict <a href=\"http://plato.stanford.edu/entries/1882-causal/\">1882</a> to 1882 tempered by 1881. 1882 is a broad category and includes the sense that human actions are largely shaped by the <a href=\"http://en.wikipedia.org/wiki/Advertisemental_1882\">Advertisement</a>, <a href=\"http://en.wikipedia.org/wiki/Technological_1882\">technology</a>, a divine plan, etc. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#free-will\">1881</a>.",
-            "slug": "1882",
+            "slug": "Kennedy-William-Sloane",
             "count": "3",
             "group": "1259"
         },
