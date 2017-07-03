@@ -233,6 +233,7 @@
             "slug": "ditem-thirteen-ariel-waldman",
             "links": [
                 "Van Nostrand, Mary",
+                "Whitman, Louisa Orr",
                 "Whitman, Lavinia",
                 "Other Writers",
                 "Bucke, Richard Maurice",
@@ -915,9 +916,9 @@
         },
         {
             "type": "theme",
-            "name": "Health",
+            "name": "Whitman, Louisa Orr",
             "description": "",
-            "slug": "health"
+            "slug": "Whitman-Louisa-Orr"
         },
         {
             "type": "theme",
