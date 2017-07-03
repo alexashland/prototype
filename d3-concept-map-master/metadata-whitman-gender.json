@@ -943,30 +943,6 @@
             "name": "Wilkinson, Anna M.",
             "description": "",
             "slug": "Wilkinson-Anna-M.-2"
-        },
-        {
-            "type": "theme",
-            "name": "Fiction",
-            "description": "",
-            "slug": "fiction-2"
-        },
-        {
-            "type": "theme",
-            "name": "Other Writers",
-            "description": "",
-            "slug": "other-writers"
-        },
-        {
-            "type": "theme",
-            "name": "Lectures",
-            "description": "",
-            "slug": "lectures-2"
-        },
-        {
-            "type": "theme",
-            "name": "Miscellaneous",
-            "description": "",
-            "slug": "miscellaneous-2"
         }
     ],
     "perspectives": [
