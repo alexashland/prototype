@@ -23,7 +23,7 @@
                 "Burroughs, John",
                 "Gilchrist, Herbert",
                 "Johnson, John Newton",
-                "1879"
+                "Stafford, Harry"
             ]
         },
         {
@@ -42,12 +42,12 @@
                 "Other Writers",
                 "Lectures",
                 "Bucke, Richard Maurice",
-                "1878",
+                "Whitman, George Washington",
                 "Carpenter, Edward",
                 "Doyle, Peter",
                 "Johnson, John Newton",
                 "Heyde, Charles",
-                "1879"
+                "Stafford, Harry"
             ]
         },
         {
@@ -127,7 +127,7 @@
                 "Burroughs, John",
                 "Gilchrist, Herbert",
                 "O'Connor, William D.",
-                "1877",
+                "Traubel, Horace",
                 "Doyle, Peter",
                 "Johnson, John Newton"
             ]
@@ -162,7 +162,7 @@
                 "Other Writers",
                 "Miscellaneous",
                 "Bucke, Richard Maurice",
-                "1878",
+                "Whitman, George Washington",
                 "Johnson, John Newton",
                 "Heyde, Charles"
             ]
@@ -183,7 +183,7 @@
                 "Lectures",
                 "Miscellaneous",
                 "Gilchrist, Herbert",
-                "1877",
+                "Traubel, Horace",
                 "Johnston, John H."
             ]
         },
@@ -261,7 +261,7 @@
                 "Rhys, Ernest",
                 "Gilchrist, Herbert",
                 "O'Connor, William D.",
-                "1877",
+                "Traubel, Horace",
                 "Doyle, Peter",
                 "Johnson, John Newton"
             ]
@@ -372,7 +372,7 @@
                 "Periodicals",
                 "Miscellaneous",
                 "Bucke, Richard Maurice",
-                "1878",
+                "Whitman, George Washington",
                 "O'Connor, William D.",
                 "Carpenter, Edward",
                 "Doyle, Peter",
@@ -396,7 +396,7 @@
                 "Other Writers",
                 "Bucke, Richard Maurice",
                 "Rhys, Ernest",
-                "1878",
+                "Whitman, George Washington",
                 "O'Connor, William D.",
                 "Carpenter, Edward",
                 "Doyle, Peter",
@@ -483,7 +483,7 @@
                 "Lectures",
                 "Brown, Lewis K.",
                 "Church, Francis P.",
-                "1877",
+                "Traubel, Horace",
                 "Johnson, John Newton",
                 "Heyde, Charles"
             ]
@@ -514,7 +514,7 @@
                 "Memoranda",
                 "Specimen Days",
                 "Bucke, Richard Maurice",
-                "1878",
+                "Whitman, George Washington",
                 "Carpenter, Edward",
                 "Johnston, John H."
             ]
@@ -577,7 +577,7 @@
                 "Burroughs, John",
                 "Gilchrist, Herbert",
                 "O'Connor, William D.",
-                "1877"
+                "Traubel, Horace"
             ]
         },
         {
@@ -594,7 +594,7 @@
                 "Drum Taps",
                 "Church, Francis P.",
                 "O'Connor, William D.",
-                "1877"
+                "Traubel, Horace"
             ]
         },
         {
@@ -612,7 +612,7 @@
                 "Gilchrist, Anne",
                 "Periodicals",
                 "O'Connor, William D.",
-                "1877",
+                "Traubel, Horace",
                 "Doyle, Peter"
             ]
         },
@@ -630,7 +630,7 @@
                 "Church, Francis P.",
                 "O'Connor, William D.",
                 "Carpenter, Edward",
-                "1877"
+                "Traubel, Horace"
             ]
         },
         {
@@ -736,7 +736,7 @@
                 "Miscellaneous",
                 "Burroughs, John",
                 "Gilchrist, Herbert",
-                "1877",
+                "Traubel, Horace",
                 "Doyle, Peter",
                 "O'Connor, Ellen M."
             ]
@@ -755,7 +755,7 @@
                 "Periodicals",
                 "Other Writers",
                 "Bucke, Richard Maurice",
-                "1878",
+                "Whitman, George Washington",
                 "O'Connor, William D.",
                 "Carpenter, Edward",
                 "Doyle, Peter",
@@ -799,7 +799,7 @@
                 "Miscellaneous",
                 "Brown, Lewis K.",
                 "O'Connor, William D.",
-                "1877",
+                "Traubel, Horace",
                 "Heyde, Charles"
             ]
         },
@@ -1075,25 +1075,25 @@
         },
         {
             "type": "perspective",
-            "name": "1879",
+            "name": "Stafford, Harry",
             "description": "Personal identity over Miscellaneous stems from <a href=\"http://plato.stanford.edu/entries/identity-personal/#PsyApp\">1879</a>. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#biological-continuity\">1880</a>.",
-            "slug": "1879",
+            "slug": "Stafford-Harry",
             "count": "4",
             "group": "1261"
         },
         {
             "type": "perspective",
-            "name": "1878",
+            "name": "Whitman, George Washington",
             "description": "Value is assigned to by humans to non-human things, whether animals, plants, or inanimate objects. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#1877\">1877</a>.",
-            "slug": "1878",
+            "slug": "Whitman-George-Washington",
             "count": "8",
             "group": "1265"
         },
         {
             "type": "perspective",
-            "name": "1877",
+            "name": "Traubel, Horace",
             "description": "Value is 1877 to things, whether people, animals, or inanimate objects. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#1878\">1878</a>.",
-            "slug": "1877",
+            "slug": "Traubel-Horace",
             "count": "12",
             "group": "1265"
         }
