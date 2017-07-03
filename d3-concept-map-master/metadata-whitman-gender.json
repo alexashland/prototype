@@ -13,8 +13,8 @@
                 "\"Oldach\"",
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
-                "Materials",
+                "Tolman Smith, Annie",
+                "Van Nostrand, Mary",
                 "Legacy",
                 "Fiction",
                 "Lectures",
@@ -35,7 +35,7 @@
             "slug": "ditem-two-dr-max-more",
             "links": [
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Legacy",
                 "Drum Taps",
                 "Periodicals",
@@ -61,7 +61,7 @@
                 "Costelloe, Mary Whitall Smith",
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Legacy",
                 "Bucke, Richard Maurice"
             ]
@@ -76,9 +76,9 @@
             "links": [
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Autograph",
-                "Advertisement",
-                "Materials",
+                "Stafford, Susan",
+                "Tolman Smith, Annie",
+                "Van Nostrand, Mary",
                 "Publisher",
                 "Other Writers",
                 "Bucke, Richard Maurice",
@@ -96,8 +96,8 @@
             "links": [
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Autograph",
-                "Materials",
+                "Stafford, Susan",
+                "Van Nostrand, Mary",
                 "Publisher",
                 "Memoranda",
                 "Other Writers",
@@ -118,7 +118,7 @@
                 "\"Oldach\"",
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Periodicals",
                 "Other Writers",
                 "Lectures",
@@ -142,7 +142,7 @@
             "links": [
                 "\"Oldach\"",
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Periodicals",
                 "Other Writers",
                 "Miscellaneous",
@@ -157,7 +157,7 @@
             "date": "2012-06-04 23:02:41",
             "slug": "ditem-eight-dr-chris-mckay",
             "links": [
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Periodicals",
                 "Other Writers",
                 "Miscellaneous",
@@ -177,7 +177,7 @@
             "links": [
                 "\"Oldach\"",
                 "Richardson, Kate",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Specimen Days",
                 "Other Writers",
                 "Lectures",
@@ -190,15 +190,15 @@
         {
             "type": "ditem",
             "name": "Legacy",
-            "description": "<a href=\"http://www.iskme.org/about-us/iskme-team/lpetrides\">Lisa Petrides</a> is the founder of <a href=\"http://www.iskme.org/\">ISKME</a>, the Institute for the Study of Knowledge Management in Autograph, a research group dedicated to studying current Autographal systems and encouraging innovation. ",
+            "description": "<a href=\"http://www.iskme.org/about-us/iskme-team/lpetrides\">Lisa Petrides</a> is the founder of <a href=\"http://www.iskme.org/\">ISKME</a>, the Institute for the Study of Knowledge Management in Stafford, Susan, a research group dedicated to studying current Stafford, Susanal systems and encouraging innovation. ",
             "ditem": 11,
             "date": "2012-06-18 20:11:47",
             "slug": "ditem-eleven-dr-lisa-petrides",
             "links": [
                 "Richardson, Kate",
-                "Autograph",
-                "Advertisement",
-                "Materials",
+                "Stafford, Susan",
+                "Tolman Smith, Annie",
+                "Van Nostrand, Mary",
                 "Other Writers",
                 "Bucke, Richard Maurice",
                 "Burroughs, John"
@@ -214,7 +214,7 @@
             "links": [
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Memoranda",
                 "Periodicals",
                 "Other Writers",
@@ -232,7 +232,7 @@
             "date": "2012-07-04 18:53:18",
             "slug": "ditem-thirteen-ariel-waldman",
             "links": [
-                "Materials",
+                "Van Nostrand, Mary",
                 "Publisher",
                 "Other Writers",
                 "Bucke, Richard Maurice",
@@ -252,8 +252,8 @@
                 "Costelloe, Mary Whitall Smith",
                 "\"Oldach\"",
                 "Richardson, Kate",
-                "Advertisement",
-                "Materials",
+                "Tolman Smith, Annie",
+                "Van Nostrand, Mary",
                 "Periodicals",
                 "Other Writers",
                 "Lectures",
@@ -276,8 +276,8 @@
             "links": [
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
-                "Materials",
+                "Tolman Smith, Annie",
+                "Van Nostrand, Mary",
                 "Legacy",
                 "Memoranda",
                 "Periodicals",
@@ -302,7 +302,7 @@
                 "\"Oldach\"",
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Legacy",
                 "Publisher",
                 "Periodicals",
@@ -324,7 +324,7 @@
                 "\"Oldach\"",
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Publisher",
                 "Specimen Days",
                 "Periodicals",
@@ -347,7 +347,7 @@
             "links": [
                 "\"Oldach\"",
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Legacy",
                 "Publisher",
                 "Other Writers",
@@ -366,7 +366,7 @@
             "slug": "ditem-twenty-david-miller",
             "links": [
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Legacy",
                 "Drum Taps",
                 "Periodicals",
@@ -388,7 +388,7 @@
             "slug": "ditem-twenty-one-robert-zubrin",
             "links": [
                 "Gilder, Jeannette",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Publisher",
                 "Memoranda",
                 "Periodicals",
@@ -414,7 +414,7 @@
             "links": [
                 "Costelloe, Mary Whitall Smith",
                 "\"Oldach\"",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Specimen Days",
                 "Periodicals",
                 "Other Writers",
@@ -437,8 +437,8 @@
                 "\"Oldach\"",
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
-                "Materials",
+                "Tolman Smith, Annie",
+                "Van Nostrand, Mary",
                 "Legacy",
                 "Publisher",
                 "Gilchrist, Anne",
@@ -458,8 +458,8 @@
             "slug": "ditem-36-ethan-zuckerman",
             "links": [
                 "Richardson, Kate",
-                "Autograph",
-                "Advertisement",
+                "Stafford, Susan",
+                "Tolman Smith, Annie",
                 "Legacy",
                 "Gilchrist, Anne",
                 "Memoranda",
@@ -477,7 +477,7 @@
             "date": "2012-12-20 17:10:52",
             "slug": "ditem-37-david-keith",
             "links": [
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Legacy",
                 "Other Writers",
                 "Lectures",
@@ -531,7 +531,7 @@
                 "\"Oldach\"",
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Bucke, Richard Maurice",
                 "Doyle, Peter",
                 "Heyde, Charles"
@@ -547,7 +547,7 @@
             "links": [
                 "\"Oldach\"",
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Specimen Days",
                 "Other Writers",
                 "Brown, Lewis K.",
@@ -567,8 +567,8 @@
             "links": [
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
-                "Remembrance",
+                "Tolman Smith, Annie",
+                "Walton, Wilhelmina",
                 "Gilchrist, Anne",
                 "Drum Taps",
                 "Lectures",
@@ -589,8 +589,8 @@
             "slug": "ditem-43-roberta-francis",
             "links": [
                 "Riley, Emma",
-                "Materials",
-                "Remembrance",
+                "Van Nostrand, Mary",
+                "Walton, Wilhelmina",
                 "Drum Taps",
                 "Church, Francis P.",
                 "O'Connor, William D.",
@@ -605,10 +605,10 @@
             "date": "2013-02-27 11:43:48",
             "slug": "ditem-44-john-seager",
             "links": [
-                "Autograph",
-                "Advertisement",
-                "Materials",
-                "Remembrance",
+                "Stafford, Susan",
+                "Tolman Smith, Annie",
+                "Van Nostrand, Mary",
+                "Walton, Wilhelmina",
                 "Gilchrist, Anne",
                 "Periodicals",
                 "O'Connor, William D.",
@@ -643,8 +643,8 @@
             "links": [
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Autograph",
-                "Advertisement",
+                "Stafford, Susan",
+                "Tolman Smith, Annie",
                 "Legacy",
                 "Publisher",
                 "Gilchrist, Anne",
@@ -666,7 +666,7 @@
             "links": [
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Materials",
+                "Van Nostrand, Mary",
                 "Legacy",
                 "Publisher",
                 "Fiction",
@@ -686,7 +686,7 @@
             "slug": "ditem-48-chris-carter",
             "links": [
                 "\"Oldach\"",
-                "Autograph",
+                "Stafford, Susan",
                 "Periodicals",
                 "Other Writers",
                 "Kennedy, William Sloane",
@@ -704,9 +704,9 @@
                 "Gilder, Jeannette",
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Autograph",
-                "Materials",
-                "Remembrance",
+                "Stafford, Susan",
+                "Van Nostrand, Mary",
+                "Walton, Wilhelmina",
                 "O'Connor, Ellen M.",
                 "Drum Taps",
                 "Fiction",
@@ -750,7 +750,7 @@
             "slug": "ditem-52-walter-block",
             "links": [
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Legacy",
                 "Periodicals",
                 "Other Writers",
@@ -772,8 +772,8 @@
             "links": [
                 "Gilder, Jeannette",
                 "Riley, Emma",
-                "Advertisement",
-                "Materials",
+                "Tolman Smith, Annie",
+                "Van Nostrand, Mary",
                 "Burroughs, John",
                 "O'Connor, William D."
             ]
@@ -790,7 +790,7 @@
                 "\"Oldach\"",
                 "Richardson, Kate",
                 "Riley, Emma",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Publisher",
                 "Periodicals",
                 "Fiction",
@@ -812,7 +812,7 @@
             "slug": "ditem-55-ed-finn",
             "links": [
                 "Richardson, Kate",
-                "Autograph",
+                "Stafford, Susan",
                 "Publisher",
                 "Memoranda",
                 "Specimen Days",
@@ -832,7 +832,7 @@
             "slug": "ditem-57-joan-blades",
             "links": [
                 "Richardson, Kate",
-                "Advertisement",
+                "Tolman Smith, Annie",
                 "Legacy",
                 "Memoranda",
                 "O'Connor, William D.",
@@ -879,27 +879,27 @@
         },
         {
             "type": "theme",
-            "name": "Autograph",
+            "name": "Stafford, Susan",
             "description": "",
-            "slug": "autograph-2"
+            "slug": "Stafford-Susan-2"
         },
         {
             "type": "theme",
-            "name": "Advertisement",
+            "name": "Tolman Smith, Annie",
             "description": "",
-            "slug": "advertisement-2"
+            "slug": "Tolman-Smith-Annie-2"
         },
         {
             "type": "theme",
-            "name": "Materials",
+            "name": "Van Nostrand, Mary",
             "description": "",
-            "slug": "materials-2"
+            "slug": "Van-Nostrand-Mary-2"
         },
         {
             "type": "theme",
-            "name": "Remembrance",
+            "name": "Walton, Wilhelmina",
             "description": "",
-            "slug": "remembrance"
+            "slug": "Walton-Wilhelmina"
         },
         {
             "type": "theme",
