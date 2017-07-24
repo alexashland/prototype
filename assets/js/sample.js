@@ -10,8 +10,8 @@
 // x[6].innerHTML = "work in progress";
 
 //
-// var x = document.querySelectorAll("h3");
+// var changeHeader = document.querySelectorAll("h3");
 // var i;
-// for (i = 0; i < x.length; i++) {
-//   x[i].innerHTML = "hi";
+// for (i = 0; i < changeHeader.length; i++) {
+//   changeHeader[i].innerHTML = "work in progress";
 // }
