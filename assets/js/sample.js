@@ -1,3 +1,5 @@
+// document.querySelector("h3").innerHTML = "work in progress";
+
 // var x = document.querySelectorAll("h3");
 // x[0].innerHTML = "work in progress";
 // x[1].innerHTML = "work in progress";
