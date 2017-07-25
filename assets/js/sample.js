@@ -4,14 +4,14 @@
 
 <!-- Identify select headers within a larger array. -->
 
-// var x = document.querySelectorAll("h3");
-// x[0].innerHTML = "work in progress";
-// x[1].innerHTML = "work in progress";
-// x[2].innerHTML = "work in progress";
-// x[3].innerHTML = "work in progress";
-// x[4].innerHTML = "work in progress";
-// x[5].innerHTML = "work in progress";
-// x[6].innerHTML = "work in progress";
+var changeHeader = document.querySelectorAll("h3");
+// changeHeader[0].innerHTML = "work in progress";
+changeHeader[1].innerHTML = "work in progress";
+// changeHeader[2].innerHTML = "work in progress";
+// changeHeader[3].innerHTML = "work in progress";
+// changeHeader[4].innerHTML = "work in progress";
+// changeHeader[5].innerHTML = "work in progress";
+// changeHeader[6].innerHTML = "work in progress";
 
 <!-- Select all headers using a loop. -->
 
@@ -21,6 +21,16 @@
 //   changeHeader[i].innerHTML = "work in progress";
 // }
 
-<!-- Use D3 to accomplish the same tasks. -->
+<!-- Use D3 to accomplish the same tasks.  Select the first element you come across. -->
 
-// d3.selectAll("p").style("background-color", "black");
+// d3.select("h3").text("work in progress");
+
+
+<!-- Use D3 to accomplish the same tasks.  Select the first element you come across. -->
+
+// d3.selectAll("h3").text("work in progress");
+
+
+<!-- Use D3 to accomplish the same tasks.  Select all elements. -->
+
+// d3.selectAll("h3").text("work in progress");
