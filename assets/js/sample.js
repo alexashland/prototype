@@ -1,8 +1,8 @@
-<!-- Select a single header. -->
+<!-- Use Javascript to select a single header. -->
 
 // document.querySelector("h3").innerHTML = "work in progress";
 
-<!-- Identify select headers within a larger array. -->
+<!-- Use Javascript to identify specific headers within a larger array. -->
 
 // var changeHeader = document.querySelectorAll("h3");
 // changeHeader[0].innerHTML = "work in progress";
@@ -13,7 +13,7 @@
 // changeHeader[5].innerHTML = "work in progress";
 // changeHeader[6].innerHTML = "work in progress";
 
-<!-- Select all headers using a loop. -->
+<!-- Use Javascript to select all headers using a loop. -->
 
 // var changeHeader = document.querySelectorAll("h3");
 // var i;
